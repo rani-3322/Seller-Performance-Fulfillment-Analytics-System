@@ -1,0 +1,801 @@
+Exception_ID,Order_ID,Exception_Type,Exception_Date,Owner,Status,Action_Taken
+EXC0001,ORD003281,Cancelled Order,2026-03-27,Logistics,Open,Pending Investigation
+EXC0002,ORD008487,Cancelled Order,2026-04-11,Finance,In Progress,Reshipped
+EXC0003,ORD007264,Cancelled Order,2026-04-02,Finance,In Progress,Refund Issued
+EXC0004,ORD009964,Address Issue,2026-06-12,Finance,Resolved,Escalated to Hub
+EXC0005,ORD004215,Wrong Item,2026-03-17,Finance,Open,Pending Investigation
+EXC0006,ORD000963,Address Issue,2026-05-09,FC Ops,Resolved,Seller Notified
+EXC0007,ORD001407,Delayed Shipment,2026-03-31,Finance,Resolved,Seller Notified
+EXC0008,ORD002512,Delayed Shipment,2026-02-24,Seller Mgmt,Resolved,Stock Corrected
+EXC0009,ORD002459,Inventory Mismatch,2026-03-16,Finance,Open,Pending Investigation
+EXC0010,ORD010958,Payment Failure,2026-07-12,Seller Mgmt,Resolved,Reshipped
+EXC0011,ORD004824,Delayed Shipment,2026-03-11,Seller Mgmt,Resolved,Reshipped
+EXC0012,ORD009151,Wrong Item,2026-05-22,Seller Mgmt,Resolved,Address Updated
+EXC0013,ORD008200,Late Dispatch,2026-06-15,Customer Support,Resolved,Refund Issued
+EXC0014,ORD010834,Delayed Shipment,2026-04-25,Seller Mgmt,In Progress,Refund Issued
+EXC0015,ORD010514,Late Dispatch,2026-05-17,Seller Mgmt,Open,Pending Investigation
+EXC0016,ORD010633,Late Dispatch,2026-06-10,Finance,Open,Pending Investigation
+EXC0017,ORD000540,Late Dispatch,2026-06-17,FC Ops,Resolved,Reshipped
+EXC0018,ORD002700,Address Issue,2026-05-04,Logistics,Open,Pending Investigation
+EXC0019,ORD008909,Delayed Shipment,2026-04-20,Customer Support,Resolved,Seller Notified
+EXC0020,ORD007889,Address Issue,2026-07-12,FC Ops,In Progress,Seller Notified
+EXC0021,ORD009143,Delayed Shipment,2026-07-16,Seller Mgmt,In Progress,Refund Issued
+EXC0022,ORD000786,Cancelled Order,2026-03-05,Logistics,Open,Pending Investigation
+EXC0023,ORD000277,Delayed Shipment,2026-04-28,FC Ops,Resolved,Seller Notified
+EXC0024,ORD000038,Wrong Item,2026-04-16,Logistics,In Progress,Address Updated
+EXC0025,ORD006992,Late Dispatch,2026-02-21,FC Ops,Resolved,Seller Notified
+EXC0026,ORD004228,Address Issue,2026-04-16,Finance,Resolved,Pending Investigation
+EXC0027,ORD005735,Inventory Mismatch,2026-06-04,Finance,Resolved,Escalated to Hub
+EXC0028,ORD002197,Late Dispatch,2026-06-02,Logistics,Resolved,Refund Issued
+EXC0029,ORD000010,Payment Failure,2026-06-03,Logistics,Resolved,Stock Corrected
+EXC0030,ORD010692,Delayed Shipment,2026-04-22,Finance,Open,Pending Investigation
+EXC0031,ORD008447,Cancelled Order,2026-04-18,FC Ops,Open,Pending Investigation
+EXC0032,ORD007981,Cancelled Order,2026-03-04,Customer Support,Resolved,Address Updated
+EXC0033,ORD009323,Address Issue,2026-04-02,Finance,Resolved,Customer Contacted
+EXC0034,ORD008057,Wrong Item,2026-06-30,Finance,Resolved,Escalated to Hub
+EXC0035,ORD005501,Inventory Mismatch,2026-05-14,Seller Mgmt,Resolved,Stock Corrected
+EXC0036,ORD002182,Late Dispatch,2026-04-11,Finance,Resolved,Seller Notified
+EXC0037,ORD007266,Cancelled Order,2026-03-24,Finance,In Progress,Customer Contacted
+EXC0038,ORD008805,Cancelled Order,2026-05-30,Seller Mgmt,Resolved,Reshipped
+EXC0039,ORD003501,Delayed Shipment,2026-05-25,Customer Support,In Progress,Reshipped
+EXC0040,ORD008629,Delayed Shipment,2026-03-29,Finance,Resolved,Address Updated
+EXC0041,ORD004956,Late Dispatch,2026-06-05,Seller Mgmt,Resolved,Reshipped
+EXC0042,ORD007652,Cancelled Order,2026-03-26,Seller Mgmt,Resolved,Customer Contacted
+EXC0043,ORD005254,Delayed Shipment,2026-04-28,Seller Mgmt,In Progress,Customer Contacted
+EXC0044,ORD006218,Wrong Item,2026-02-12,FC Ops,Resolved,Escalated to Hub
+EXC0045,ORD007517,Cancelled Order,2026-05-31,Logistics,Open,Pending Investigation
+EXC0046,ORD002150,Payment Failure,2026-04-05,Logistics,Open,Pending Investigation
+EXC0047,ORD007329,Delayed Shipment,2026-04-10,FC Ops,Open,Pending Investigation
+EXC0048,ORD008871,Wrong Item,2026-03-24,Seller Mgmt,In Progress,Refund Issued
+EXC0049,ORD000973,Late Dispatch,2026-07-24,Seller Mgmt,Resolved,Pending Investigation
+EXC0050,ORD004408,Inventory Mismatch,2026-07-26,Finance,Open,Pending Investigation
+EXC0051,ORD009930,Late Dispatch,2026-06-26,Seller Mgmt,Resolved,Reshipped
+EXC0052,ORD006385,Delayed Shipment,2026-05-20,Customer Support,Resolved,Address Updated
+EXC0053,ORD011328,Delayed Shipment,2026-02-12,FC Ops,In Progress,Reshipped
+EXC0054,ORD000211,Payment Failure,2026-03-26,FC Ops,In Progress,Escalated to Hub
+EXC0055,ORD002173,Cancelled Order,2026-04-03,Finance,Open,Pending Investigation
+EXC0056,ORD010764,Cancelled Order,2026-04-23,Customer Support,Resolved,Customer Contacted
+EXC0057,ORD002139,Inventory Mismatch,2026-04-02,FC Ops,Resolved,Seller Notified
+EXC0058,ORD003053,Late Dispatch,2026-07-07,Customer Support,In Progress,Reshipped
+EXC0059,ORD008895,Delayed Shipment,2026-07-10,Logistics,Resolved,Refund Issued
+EXC0060,ORD011466,Delayed Shipment,2026-02-05,Customer Support,Resolved,Seller Notified
+EXC0061,ORD007222,Late Dispatch,2026-07-06,Seller Mgmt,Resolved,Escalated to Hub
+EXC0062,ORD002035,Late Dispatch,2026-04-25,FC Ops,Resolved,Reshipped
+EXC0063,ORD010027,Inventory Mismatch,2026-05-26,Customer Support,Resolved,Seller Notified
+EXC0064,ORD005932,Delayed Shipment,2026-03-04,Customer Support,Resolved,Reshipped
+EXC0065,ORD004760,Inventory Mismatch,2026-05-26,Finance,Open,Pending Investigation
+EXC0066,ORD003676,Delayed Shipment,2026-07-21,FC Ops,Resolved,Address Updated
+EXC0067,ORD009871,Cancelled Order,2026-07-05,Seller Mgmt,In Progress,Escalated to Hub
+EXC0068,ORD007047,Lost Shipment,2026-06-01,Seller Mgmt,In Progress,Pending Investigation
+EXC0069,ORD005508,Inventory Mismatch,2026-07-04,FC Ops,Open,Pending Investigation
+EXC0070,ORD011500,Address Issue,2026-03-14,Logistics,Resolved,Customer Contacted
+EXC0071,ORD005815,Inventory Mismatch,2026-06-02,Customer Support,Resolved,Stock Corrected
+EXC0072,ORD011202,Address Issue,2026-05-02,Logistics,Open,Pending Investigation
+EXC0073,ORD006450,Cancelled Order,2026-03-27,Customer Support,In Progress,Customer Contacted
+EXC0074,ORD000977,Address Issue,2026-07-12,Logistics,Open,Pending Investigation
+EXC0075,ORD003228,Address Issue,2026-05-29,Seller Mgmt,Resolved,Customer Contacted
+EXC0076,ORD010455,Delayed Shipment,2026-03-05,Finance,Resolved,Seller Notified
+EXC0077,ORD009314,Cancelled Order,2026-07-07,Logistics,Resolved,Escalated to Hub
+EXC0078,ORD011522,Delayed Shipment,2026-04-10,Logistics,Resolved,Reshipped
+EXC0079,ORD009885,Late Dispatch,2026-02-15,Customer Support,Resolved,Stock Corrected
+EXC0080,ORD001564,Wrong Item,2026-07-01,Customer Support,Resolved,Seller Notified
+EXC0081,ORD003563,Address Issue,2026-07-06,FC Ops,Resolved,Stock Corrected
+EXC0082,ORD003414,Inventory Mismatch,2026-05-29,Customer Support,Resolved,Pending Investigation
+EXC0083,ORD009747,Payment Failure,2026-03-01,Logistics,In Progress,Address Updated
+EXC0084,ORD009014,Delayed Shipment,2026-06-02,Finance,In Progress,Escalated to Hub
+EXC0085,ORD005203,Lost Shipment,2026-06-21,FC Ops,Resolved,Seller Notified
+EXC0086,ORD007950,Cancelled Order,2026-02-28,Seller Mgmt,In Progress,Customer Contacted
+EXC0087,ORD004542,Late Dispatch,2026-05-21,Finance,In Progress,Refund Issued
+EXC0088,ORD006451,Address Issue,2026-03-11,Finance,Resolved,Seller Notified
+EXC0089,ORD004078,Inventory Mismatch,2026-06-12,FC Ops,Resolved,Refund Issued
+EXC0090,ORD005703,Payment Failure,2026-05-07,Customer Support,Resolved,Customer Contacted
+EXC0091,ORD006056,Address Issue,2026-04-16,FC Ops,Open,Pending Investigation
+EXC0092,ORD000376,Inventory Mismatch,2026-03-05,Seller Mgmt,Resolved,Address Updated
+EXC0093,ORD000849,Address Issue,2026-04-23,Customer Support,Resolved,Escalated to Hub
+EXC0094,ORD005557,Delayed Shipment,2026-02-19,Logistics,Resolved,Reshipped
+EXC0095,ORD006194,Late Dispatch,2026-07-13,Seller Mgmt,In Progress,Seller Notified
+EXC0096,ORD004743,Delayed Shipment,2026-03-04,Customer Support,In Progress,Customer Contacted
+EXC0097,ORD010096,Payment Failure,2026-02-17,Finance,Resolved,Seller Notified
+EXC0098,ORD008837,Late Dispatch,2026-06-21,FC Ops,Resolved,Pending Investigation
+EXC0099,ORD000451,Address Issue,2026-06-17,Finance,Resolved,Address Updated
+EXC0100,ORD011275,Address Issue,2026-04-06,Customer Support,Resolved,Pending Investigation
+EXC0101,ORD002757,Inventory Mismatch,2026-03-31,Seller Mgmt,Resolved,Stock Corrected
+EXC0102,ORD001338,Address Issue,2026-06-05,Logistics,Open,Pending Investigation
+EXC0103,ORD011217,Cancelled Order,2026-02-25,Seller Mgmt,Resolved,Escalated to Hub
+EXC0104,ORD003427,Delayed Shipment,2026-02-06,Seller Mgmt,Resolved,Stock Corrected
+EXC0105,ORD011531,Cancelled Order,2026-04-23,Customer Support,Resolved,Seller Notified
+EXC0106,ORD009446,Wrong Item,2026-05-15,Logistics,Resolved,Escalated to Hub
+EXC0107,ORD008822,Delayed Shipment,2026-06-06,FC Ops,Resolved,Address Updated
+EXC0108,ORD007489,Address Issue,2026-02-20,FC Ops,Resolved,Address Updated
+EXC0109,ORD005397,Delayed Shipment,2026-07-12,Customer Support,Open,Pending Investigation
+EXC0110,ORD010467,Inventory Mismatch,2026-06-07,FC Ops,Resolved,Customer Contacted
+EXC0111,ORD003156,Delayed Shipment,2026-06-05,Customer Support,In Progress,Seller Notified
+EXC0112,ORD009965,Payment Failure,2026-06-22,Customer Support,Resolved,Stock Corrected
+EXC0113,ORD007852,Delayed Shipment,2026-02-22,Logistics,Resolved,Pending Investigation
+EXC0114,ORD007661,Address Issue,2026-05-24,Seller Mgmt,Resolved,Reshipped
+EXC0115,ORD000952,Cancelled Order,2026-05-11,Finance,Resolved,Refund Issued
+EXC0116,ORD009969,Late Dispatch,2026-05-16,Finance,Open,Pending Investigation
+EXC0117,ORD003853,Wrong Item,2026-07-26,Customer Support,In Progress,Reshipped
+EXC0118,ORD001333,Inventory Mismatch,2026-03-15,Seller Mgmt,Resolved,Stock Corrected
+EXC0119,ORD011186,Delayed Shipment,2026-03-08,Customer Support,Open,Pending Investigation
+EXC0120,ORD002506,Inventory Mismatch,2026-03-25,Logistics,Open,Pending Investigation
+EXC0121,ORD008614,Address Issue,2026-03-15,Customer Support,In Progress,Stock Corrected
+EXC0122,ORD000285,Address Issue,2026-03-11,Seller Mgmt,Open,Pending Investigation
+EXC0123,ORD007434,Cancelled Order,2026-02-02,Logistics,In Progress,Address Updated
+EXC0124,ORD007268,Lost Shipment,2026-04-21,Finance,Open,Pending Investigation
+EXC0125,ORD009938,Delayed Shipment,2026-04-22,Customer Support,Resolved,Reshipped
+EXC0126,ORD008318,Late Dispatch,2026-04-05,Finance,Resolved,Address Updated
+EXC0127,ORD007459,Late Dispatch,2026-05-20,FC Ops,In Progress,Address Updated
+EXC0128,ORD008215,Cancelled Order,2026-02-11,Finance,Resolved,Pending Investigation
+EXC0129,ORD000314,Delayed Shipment,2026-03-12,Seller Mgmt,Resolved,Escalated to Hub
+EXC0130,ORD011355,Payment Failure,2026-07-01,Customer Support,Resolved,Refund Issued
+EXC0131,ORD007040,Inventory Mismatch,2026-04-30,FC Ops,Resolved,Reshipped
+EXC0132,ORD001162,Cancelled Order,2026-06-11,FC Ops,Resolved,Escalated to Hub
+EXC0133,ORD000958,Lost Shipment,2026-06-27,FC Ops,Open,Pending Investigation
+EXC0134,ORD007351,Cancelled Order,2026-07-23,Logistics,In Progress,Customer Contacted
+EXC0135,ORD001650,Delayed Shipment,2026-06-18,Customer Support,In Progress,Reshipped
+EXC0136,ORD000891,Late Dispatch,2026-05-17,Logistics,In Progress,Escalated to Hub
+EXC0137,ORD002216,Delayed Shipment,2026-02-28,Finance,Resolved,Address Updated
+EXC0138,ORD000053,Cancelled Order,2026-06-07,Logistics,Resolved,Stock Corrected
+EXC0139,ORD005536,Cancelled Order,2026-06-18,Logistics,Resolved,Pending Investigation
+EXC0140,ORD006433,Cancelled Order,2026-04-21,Finance,Resolved,Refund Issued
+EXC0141,ORD001034,Cancelled Order,2026-05-02,Finance,Open,Pending Investigation
+EXC0142,ORD010379,Delayed Shipment,2026-04-07,Logistics,Open,Pending Investigation
+EXC0143,ORD010392,Wrong Item,2026-07-30,Finance,In Progress,Escalated to Hub
+EXC0144,ORD006685,Cancelled Order,2026-06-04,Customer Support,Resolved,Stock Corrected
+EXC0145,ORD008944,Delayed Shipment,2026-02-26,Logistics,Resolved,Reshipped
+EXC0146,ORD008034,Wrong Item,2026-06-10,Logistics,Open,Pending Investigation
+EXC0147,ORD009592,Delayed Shipment,2026-07-04,Logistics,Resolved,Escalated to Hub
+EXC0148,ORD009120,Wrong Item,2026-03-29,FC Ops,In Progress,Seller Notified
+EXC0149,ORD008143,Wrong Item,2026-03-05,Customer Support,Open,Pending Investigation
+EXC0150,ORD008508,Cancelled Order,2026-03-18,FC Ops,Resolved,Stock Corrected
+EXC0151,ORD004121,Payment Failure,2026-05-03,Customer Support,Resolved,Customer Contacted
+EXC0152,ORD009145,Address Issue,2026-02-06,Finance,In Progress,Stock Corrected
+EXC0153,ORD001175,Late Dispatch,2026-03-10,FC Ops,Open,Pending Investigation
+EXC0154,ORD006250,Delayed Shipment,2026-03-16,Logistics,Resolved,Refund Issued
+EXC0155,ORD010119,Cancelled Order,2026-06-28,Finance,Resolved,Customer Contacted
+EXC0156,ORD006707,Inventory Mismatch,2026-07-13,Seller Mgmt,In Progress,Pending Investigation
+EXC0157,ORD007660,Late Dispatch,2026-02-14,Customer Support,Resolved,Refund Issued
+EXC0158,ORD000733,Inventory Mismatch,2026-04-26,FC Ops,Resolved,Reshipped
+EXC0159,ORD009903,Late Dispatch,2026-05-02,Seller Mgmt,Resolved,Customer Contacted
+EXC0160,ORD003058,Address Issue,2026-05-18,Customer Support,Resolved,Escalated to Hub
+EXC0161,ORD005061,Late Dispatch,2026-07-09,Seller Mgmt,Resolved,Seller Notified
+EXC0162,ORD000953,Wrong Item,2026-06-17,Seller Mgmt,Open,Pending Investigation
+EXC0163,ORD002760,Wrong Item,2026-05-09,Customer Support,In Progress,Refund Issued
+EXC0164,ORD010138,Cancelled Order,2026-03-05,Finance,Open,Pending Investigation
+EXC0165,ORD002261,Cancelled Order,2026-07-12,Logistics,Resolved,Seller Notified
+EXC0166,ORD002488,Address Issue,2026-04-05,Seller Mgmt,Resolved,Reshipped
+EXC0167,ORD000610,Wrong Item,2026-05-12,Customer Support,Resolved,Reshipped
+EXC0168,ORD003865,Address Issue,2026-06-18,FC Ops,Resolved,Pending Investigation
+EXC0169,ORD000572,Wrong Item,2026-05-14,Logistics,Resolved,Reshipped
+EXC0170,ORD005993,Address Issue,2026-03-26,Logistics,In Progress,Stock Corrected
+EXC0171,ORD001962,Inventory Mismatch,2026-06-16,Seller Mgmt,Open,Pending Investigation
+EXC0172,ORD011273,Payment Failure,2026-03-16,Finance,In Progress,Stock Corrected
+EXC0173,ORD000692,Wrong Item,2026-04-26,Customer Support,In Progress,Pending Investigation
+EXC0174,ORD000776,Delayed Shipment,2026-04-13,FC Ops,Open,Pending Investigation
+EXC0175,ORD008298,Cancelled Order,2026-06-11,Seller Mgmt,Resolved,Stock Corrected
+EXC0176,ORD010384,Wrong Item,2026-07-27,FC Ops,In Progress,Escalated to Hub
+EXC0177,ORD010201,Inventory Mismatch,2026-04-22,Logistics,Resolved,Address Updated
+EXC0178,ORD003757,Delayed Shipment,2026-07-24,FC Ops,In Progress,Seller Notified
+EXC0179,ORD009793,Lost Shipment,2026-04-14,Seller Mgmt,Open,Pending Investigation
+EXC0180,ORD004597,Address Issue,2026-05-15,Finance,Resolved,Seller Notified
+EXC0181,ORD006127,Wrong Item,2026-07-14,Customer Support,Resolved,Escalated to Hub
+EXC0182,ORD005943,Inventory Mismatch,2026-05-16,FC Ops,Resolved,Address Updated
+EXC0183,ORD005991,Late Dispatch,2026-06-25,FC Ops,Open,Pending Investigation
+EXC0184,ORD008671,Wrong Item,2026-06-22,Seller Mgmt,Open,Pending Investigation
+EXC0185,ORD008730,Wrong Item,2026-05-04,FC Ops,Resolved,Customer Contacted
+EXC0186,ORD010302,Inventory Mismatch,2026-06-09,FC Ops,Open,Pending Investigation
+EXC0187,ORD003421,Payment Failure,2026-02-10,Customer Support,Resolved,Pending Investigation
+EXC0188,ORD006709,Cancelled Order,2026-07-18,Logistics,Resolved,Pending Investigation
+EXC0189,ORD005929,Cancelled Order,2026-02-20,Seller Mgmt,Resolved,Reshipped
+EXC0190,ORD005103,Cancelled Order,2026-06-15,Finance,Resolved,Seller Notified
+EXC0191,ORD008453,Cancelled Order,2026-04-08,Logistics,Resolved,Seller Notified
+EXC0192,ORD010669,Inventory Mismatch,2026-05-17,Seller Mgmt,Open,Pending Investigation
+EXC0193,ORD007783,Delayed Shipment,2026-02-10,FC Ops,In Progress,Reshipped
+EXC0194,ORD007869,Inventory Mismatch,2026-06-05,FC Ops,Resolved,Customer Contacted
+EXC0195,ORD006135,Cancelled Order,2026-07-03,Finance,Resolved,Refund Issued
+EXC0196,ORD009387,Address Issue,2026-07-15,Customer Support,Resolved,Seller Notified
+EXC0197,ORD004294,Late Dispatch,2026-04-11,Seller Mgmt,In Progress,Seller Notified
+EXC0198,ORD010697,Late Dispatch,2026-05-14,Seller Mgmt,Resolved,Refund Issued
+EXC0199,ORD000244,Delayed Shipment,2026-02-23,Finance,Open,Pending Investigation
+EXC0200,ORD002445,Late Dispatch,2026-03-31,Customer Support,Resolved,Reshipped
+EXC0201,ORD003218,Delayed Shipment,2026-06-22,Logistics,Resolved,Refund Issued
+EXC0202,ORD004737,Late Dispatch,2026-07-29,Seller Mgmt,In Progress,Seller Notified
+EXC0203,ORD004209,Wrong Item,2026-03-27,Customer Support,Open,Pending Investigation
+EXC0204,ORD009448,Payment Failure,2026-07-21,Finance,Resolved,Reshipped
+EXC0205,ORD006753,Address Issue,2026-04-28,Logistics,Resolved,Refund Issued
+EXC0206,ORD010517,Delayed Shipment,2026-07-30,Finance,In Progress,Customer Contacted
+EXC0207,ORD002013,Delayed Shipment,2026-02-16,Customer Support,Resolved,Reshipped
+EXC0208,ORD002335,Payment Failure,2026-07-10,Logistics,Resolved,Seller Notified
+EXC0209,ORD010561,Inventory Mismatch,2026-07-19,FC Ops,Open,Pending Investigation
+EXC0210,ORD010948,Cancelled Order,2026-07-20,Finance,In Progress,Escalated to Hub
+EXC0211,ORD007547,Delayed Shipment,2026-06-17,FC Ops,Resolved,Pending Investigation
+EXC0212,ORD009081,Lost Shipment,2026-06-06,Seller Mgmt,In Progress,Seller Notified
+EXC0213,ORD005453,Cancelled Order,2026-05-20,FC Ops,Resolved,Stock Corrected
+EXC0214,ORD010133,Address Issue,2026-04-11,Logistics,In Progress,Pending Investigation
+EXC0215,ORD008753,Delayed Shipment,2026-07-16,Logistics,Open,Pending Investigation
+EXC0216,ORD006903,Delayed Shipment,2026-07-03,Customer Support,Resolved,Seller Notified
+EXC0217,ORD005983,Wrong Item,2026-04-03,Customer Support,Resolved,Pending Investigation
+EXC0218,ORD001661,Delayed Shipment,2026-02-12,Logistics,Open,Pending Investigation
+EXC0219,ORD006858,Wrong Item,2026-05-11,Finance,Open,Pending Investigation
+EXC0220,ORD009951,Inventory Mismatch,2026-06-06,Customer Support,In Progress,Address Updated
+EXC0221,ORD003276,Delayed Shipment,2026-03-30,Logistics,Resolved,Seller Notified
+EXC0222,ORD006553,Payment Failure,2026-03-06,Logistics,Resolved,Reshipped
+EXC0223,ORD006183,Address Issue,2026-07-02,Seller Mgmt,In Progress,Reshipped
+EXC0224,ORD001192,Cancelled Order,2026-05-09,Seller Mgmt,Open,Pending Investigation
+EXC0225,ORD008016,Lost Shipment,2026-07-08,Finance,Open,Pending Investigation
+EXC0226,ORD010339,Cancelled Order,2026-02-21,Customer Support,Resolved,Address Updated
+EXC0227,ORD009696,Cancelled Order,2026-04-22,FC Ops,In Progress,Customer Contacted
+EXC0228,ORD005093,Delayed Shipment,2026-03-27,FC Ops,In Progress,Address Updated
+EXC0229,ORD000850,Cancelled Order,2026-02-01,Customer Support,Resolved,Address Updated
+EXC0230,ORD004458,Delayed Shipment,2026-04-17,Finance,Open,Pending Investigation
+EXC0231,ORD004929,Payment Failure,2026-02-12,Customer Support,Resolved,Pending Investigation
+EXC0232,ORD003126,Late Dispatch,2026-06-19,FC Ops,Resolved,Refund Issued
+EXC0233,ORD010125,Lost Shipment,2026-04-05,Customer Support,Resolved,Reshipped
+EXC0234,ORD005967,Payment Failure,2026-03-22,Finance,Resolved,Refund Issued
+EXC0235,ORD003679,Lost Shipment,2026-05-05,Seller Mgmt,Resolved,Address Updated
+EXC0236,ORD008602,Lost Shipment,2026-02-26,FC Ops,In Progress,Customer Contacted
+EXC0237,ORD009035,Address Issue,2026-06-12,Logistics,Resolved,Reshipped
+EXC0238,ORD000393,Late Dispatch,2026-03-23,Customer Support,Open,Pending Investigation
+EXC0239,ORD009432,Late Dispatch,2026-04-07,FC Ops,Resolved,Seller Notified
+EXC0240,ORD008948,Cancelled Order,2026-07-06,Customer Support,Resolved,Seller Notified
+EXC0241,ORD002310,Payment Failure,2026-07-23,Seller Mgmt,Resolved,Seller Notified
+EXC0242,ORD007070,Payment Failure,2026-07-28,Seller Mgmt,Resolved,Pending Investigation
+EXC0243,ORD004390,Delayed Shipment,2026-05-27,Seller Mgmt,Resolved,Stock Corrected
+EXC0244,ORD002297,Lost Shipment,2026-04-04,Customer Support,Resolved,Address Updated
+EXC0245,ORD009666,Cancelled Order,2026-02-23,FC Ops,In Progress,Stock Corrected
+EXC0246,ORD004834,Inventory Mismatch,2026-04-06,FC Ops,Resolved,Escalated to Hub
+EXC0247,ORD008883,Cancelled Order,2026-04-24,Finance,Resolved,Pending Investigation
+EXC0248,ORD003515,Late Dispatch,2026-04-21,Finance,In Progress,Seller Notified
+EXC0249,ORD008067,Cancelled Order,2026-03-30,Seller Mgmt,Open,Pending Investigation
+EXC0250,ORD005926,Lost Shipment,2026-06-14,FC Ops,In Progress,Reshipped
+EXC0251,ORD004138,Inventory Mismatch,2026-05-02,FC Ops,Resolved,Pending Investigation
+EXC0252,ORD004456,Wrong Item,2026-03-17,Customer Support,Resolved,Reshipped
+EXC0253,ORD007847,Delayed Shipment,2026-08-01,FC Ops,Resolved,Refund Issued
+EXC0254,ORD009091,Delayed Shipment,2026-03-26,Finance,In Progress,Refund Issued
+EXC0255,ORD001020,Wrong Item,2026-04-17,Finance,In Progress,Reshipped
+EXC0256,ORD003029,Wrong Item,2026-03-28,Seller Mgmt,In Progress,Seller Notified
+EXC0257,ORD009918,Wrong Item,2026-06-04,Logistics,Open,Pending Investigation
+EXC0258,ORD002572,Wrong Item,2026-06-01,Logistics,Open,Pending Investigation
+EXC0259,ORD006111,Cancelled Order,2026-05-19,Finance,Resolved,Stock Corrected
+EXC0260,ORD003158,Address Issue,2026-02-10,Seller Mgmt,In Progress,Address Updated
+EXC0261,ORD011494,Address Issue,2026-03-18,Finance,Resolved,Pending Investigation
+EXC0262,ORD006285,Delayed Shipment,2026-06-20,Customer Support,Resolved,Pending Investigation
+EXC0263,ORD003482,Payment Failure,2026-04-13,Customer Support,Resolved,Seller Notified
+EXC0264,ORD007020,Delayed Shipment,2026-04-03,FC Ops,Open,Pending Investigation
+EXC0265,ORD010011,Inventory Mismatch,2026-02-24,FC Ops,Open,Pending Investigation
+EXC0266,ORD000249,Cancelled Order,2026-02-16,Seller Mgmt,Open,Pending Investigation
+EXC0267,ORD001003,Delayed Shipment,2026-06-14,Logistics,Open,Pending Investigation
+EXC0268,ORD008712,Delayed Shipment,2026-03-26,Customer Support,Resolved,Address Updated
+EXC0269,ORD007152,Inventory Mismatch,2026-03-19,Logistics,Resolved,Refund Issued
+EXC0270,ORD000095,Inventory Mismatch,2026-06-15,Customer Support,Resolved,Stock Corrected
+EXC0271,ORD006637,Lost Shipment,2026-03-08,Finance,In Progress,Address Updated
+EXC0272,ORD003341,Payment Failure,2026-06-13,Seller Mgmt,In Progress,Refund Issued
+EXC0273,ORD002289,Wrong Item,2026-02-24,Seller Mgmt,Open,Pending Investigation
+EXC0274,ORD000581,Cancelled Order,2026-02-15,Finance,In Progress,Address Updated
+EXC0275,ORD011456,Late Dispatch,2026-02-27,Logistics,Resolved,Escalated to Hub
+EXC0276,ORD005000,Cancelled Order,2026-06-23,FC Ops,Resolved,Pending Investigation
+EXC0277,ORD001093,Payment Failure,2026-03-22,Finance,Resolved,Escalated to Hub
+EXC0278,ORD008935,Wrong Item,2026-04-08,Seller Mgmt,In Progress,Address Updated
+EXC0279,ORD004505,Cancelled Order,2026-03-07,FC Ops,Resolved,Pending Investigation
+EXC0280,ORD008470,Delayed Shipment,2026-02-03,Customer Support,Open,Pending Investigation
+EXC0281,ORD009707,Cancelled Order,2026-02-13,Customer Support,Open,Pending Investigation
+EXC0282,ORD008812,Address Issue,2026-06-22,Seller Mgmt,Resolved,Stock Corrected
+EXC0283,ORD007357,Address Issue,2026-07-31,Seller Mgmt,Resolved,Seller Notified
+EXC0284,ORD000509,Address Issue,2026-07-22,FC Ops,Resolved,Escalated to Hub
+EXC0285,ORD005950,Payment Failure,2026-04-11,Customer Support,Resolved,Seller Notified
+EXC0286,ORD000280,Cancelled Order,2026-05-23,Customer Support,Resolved,Refund Issued
+EXC0287,ORD007175,Late Dispatch,2026-02-28,Finance,Resolved,Refund Issued
+EXC0288,ORD009608,Late Dispatch,2026-03-02,Seller Mgmt,Open,Pending Investigation
+EXC0289,ORD006066,Cancelled Order,2026-05-05,Seller Mgmt,In Progress,Customer Contacted
+EXC0290,ORD009227,Cancelled Order,2026-07-25,Logistics,Resolved,Refund Issued
+EXC0291,ORD004091,Lost Shipment,2026-03-24,Customer Support,In Progress,Refund Issued
+EXC0292,ORD003592,Address Issue,2026-05-13,Logistics,Open,Pending Investigation
+EXC0293,ORD007695,Delayed Shipment,2026-04-18,FC Ops,Resolved,Pending Investigation
+EXC0294,ORD005643,Cancelled Order,2026-07-07,Seller Mgmt,Open,Pending Investigation
+EXC0295,ORD011017,Delayed Shipment,2026-07-19,FC Ops,Open,Pending Investigation
+EXC0296,ORD006746,Inventory Mismatch,2026-04-20,Customer Support,In Progress,Stock Corrected
+EXC0297,ORD005601,Late Dispatch,2026-07-21,Seller Mgmt,Resolved,Refund Issued
+EXC0298,ORD005470,Wrong Item,2026-04-07,Finance,Open,Pending Investigation
+EXC0299,ORD007324,Wrong Item,2026-07-04,Customer Support,Resolved,Reshipped
+EXC0300,ORD004672,Delayed Shipment,2026-03-11,Customer Support,Resolved,Stock Corrected
+EXC0301,ORD008327,Delayed Shipment,2026-06-20,Logistics,Resolved,Reshipped
+EXC0302,ORD009832,Delayed Shipment,2026-02-18,Finance,Resolved,Reshipped
+EXC0303,ORD010830,Late Dispatch,2026-07-29,Seller Mgmt,In Progress,Seller Notified
+EXC0304,ORD009044,Delayed Shipment,2026-05-05,Seller Mgmt,In Progress,Address Updated
+EXC0305,ORD010319,Late Dispatch,2026-04-18,Customer Support,Open,Pending Investigation
+EXC0306,ORD004205,Cancelled Order,2026-07-01,FC Ops,Resolved,Reshipped
+EXC0307,ORD004126,Delayed Shipment,2026-07-21,Customer Support,Resolved,Seller Notified
+EXC0308,ORD003782,Delayed Shipment,2026-03-28,FC Ops,Resolved,Refund Issued
+EXC0309,ORD005655,Cancelled Order,2026-06-20,Customer Support,In Progress,Reshipped
+EXC0310,ORD009124,Payment Failure,2026-04-25,Finance,Resolved,Address Updated
+EXC0311,ORD001218,Inventory Mismatch,2026-04-19,Finance,In Progress,Customer Contacted
+EXC0312,ORD002622,Late Dispatch,2026-02-15,Customer Support,In Progress,Escalated to Hub
+EXC0313,ORD005034,Delayed Shipment,2026-04-22,Finance,Resolved,Seller Notified
+EXC0314,ORD002618,Late Dispatch,2026-03-12,Finance,In Progress,Customer Contacted
+EXC0315,ORD007775,Lost Shipment,2026-03-08,Seller Mgmt,Resolved,Seller Notified
+EXC0316,ORD001334,Delayed Shipment,2026-06-11,Seller Mgmt,Resolved,Escalated to Hub
+EXC0317,ORD008488,Inventory Mismatch,2026-04-11,Logistics,Resolved,Address Updated
+EXC0318,ORD006747,Wrong Item,2026-05-16,Customer Support,Resolved,Stock Corrected
+EXC0319,ORD007746,Address Issue,2026-03-29,Seller Mgmt,Resolved,Escalated to Hub
+EXC0320,ORD011190,Cancelled Order,2026-04-22,Customer Support,Resolved,Pending Investigation
+EXC0321,ORD000263,Late Dispatch,2026-02-20,Finance,Resolved,Customer Contacted
+EXC0322,ORD006394,Late Dispatch,2026-06-22,FC Ops,Resolved,Reshipped
+EXC0323,ORD004965,Cancelled Order,2026-02-13,Finance,In Progress,Refund Issued
+EXC0324,ORD000471,Payment Failure,2026-06-22,Customer Support,Resolved,Pending Investigation
+EXC0325,ORD002312,Payment Failure,2026-02-11,Finance,Open,Pending Investigation
+EXC0326,ORD002599,Late Dispatch,2026-06-11,Seller Mgmt,Resolved,Reshipped
+EXC0327,ORD009820,Delayed Shipment,2026-05-23,Logistics,Resolved,Reshipped
+EXC0328,ORD001341,Delayed Shipment,2026-06-01,Finance,In Progress,Seller Notified
+EXC0329,ORD000871,Cancelled Order,2026-05-06,Logistics,In Progress,Escalated to Hub
+EXC0330,ORD009417,Late Dispatch,2026-03-07,Customer Support,Resolved,Stock Corrected
+EXC0331,ORD004424,Delayed Shipment,2026-02-04,Finance,Open,Pending Investigation
+EXC0332,ORD003888,Address Issue,2026-07-08,FC Ops,Open,Pending Investigation
+EXC0333,ORD000159,Cancelled Order,2026-08-03,FC Ops,Resolved,Customer Contacted
+EXC0334,ORD004169,Delayed Shipment,2026-03-28,Finance,Resolved,Reshipped
+EXC0335,ORD003274,Inventory Mismatch,2026-04-21,Customer Support,Resolved,Seller Notified
+EXC0336,ORD009788,Late Dispatch,2026-05-25,Finance,Open,Pending Investigation
+EXC0337,ORD007895,Delayed Shipment,2026-02-20,Finance,Resolved,Customer Contacted
+EXC0338,ORD003815,Cancelled Order,2026-04-12,Customer Support,Resolved,Escalated to Hub
+EXC0339,ORD010768,Address Issue,2026-03-31,Logistics,In Progress,Stock Corrected
+EXC0340,ORD004722,Late Dispatch,2026-03-09,Finance,Resolved,Pending Investigation
+EXC0341,ORD003275,Wrong Item,2026-03-16,Finance,Open,Pending Investigation
+EXC0342,ORD001612,Address Issue,2026-06-07,Logistics,Open,Pending Investigation
+EXC0343,ORD005618,Address Issue,2026-06-01,FC Ops,Resolved,Escalated to Hub
+EXC0344,ORD005754,Late Dispatch,2026-04-06,Seller Mgmt,Open,Pending Investigation
+EXC0345,ORD006317,Payment Failure,2026-07-13,FC Ops,Resolved,Refund Issued
+EXC0346,ORD000521,Address Issue,2026-04-27,Logistics,Resolved,Escalated to Hub
+EXC0347,ORD008777,Payment Failure,2026-03-18,Finance,Resolved,Reshipped
+EXC0348,ORD002178,Late Dispatch,2026-05-26,Customer Support,In Progress,Stock Corrected
+EXC0349,ORD002849,Delayed Shipment,2026-05-29,Finance,Open,Pending Investigation
+EXC0350,ORD007083,Wrong Item,2026-07-06,Finance,In Progress,Escalated to Hub
+EXC0351,ORD006891,Wrong Item,2026-05-25,Finance,Resolved,Reshipped
+EXC0352,ORD004513,Address Issue,2026-05-25,FC Ops,Resolved,Reshipped
+EXC0353,ORD003872,Inventory Mismatch,2026-07-14,FC Ops,Resolved,Stock Corrected
+EXC0354,ORD003055,Inventory Mismatch,2026-05-16,Customer Support,Resolved,Escalated to Hub
+EXC0355,ORD008616,Address Issue,2026-07-30,Customer Support,Resolved,Escalated to Hub
+EXC0356,ORD001545,Payment Failure,2026-06-10,Finance,In Progress,Seller Notified
+EXC0357,ORD006241,Address Issue,2026-03-22,Finance,Resolved,Customer Contacted
+EXC0358,ORD008695,Late Dispatch,2026-04-26,Logistics,Resolved,Seller Notified
+EXC0359,ORD010343,Payment Failure,2026-06-11,Seller Mgmt,In Progress,Escalated to Hub
+EXC0360,ORD002840,Payment Failure,2026-07-23,Finance,Resolved,Pending Investigation
+EXC0361,ORD001412,Inventory Mismatch,2026-06-01,Finance,In Progress,Escalated to Hub
+EXC0362,ORD008129,Late Dispatch,2026-05-19,Finance,Resolved,Refund Issued
+EXC0363,ORD008355,Wrong Item,2026-04-08,Customer Support,Resolved,Reshipped
+EXC0364,ORD005030,Lost Shipment,2026-03-29,Customer Support,Resolved,Address Updated
+EXC0365,ORD004174,Cancelled Order,2026-06-17,FC Ops,Resolved,Escalated to Hub
+EXC0366,ORD010232,Inventory Mismatch,2026-06-22,Finance,Resolved,Refund Issued
+EXC0367,ORD009700,Delayed Shipment,2026-07-02,Finance,Resolved,Refund Issued
+EXC0368,ORD009800,Inventory Mismatch,2026-07-05,Customer Support,Resolved,Customer Contacted
+EXC0369,ORD003192,Inventory Mismatch,2026-03-06,Finance,Open,Pending Investigation
+EXC0370,ORD007733,Lost Shipment,2026-06-07,Customer Support,Resolved,Stock Corrected
+EXC0371,ORD001198,Payment Failure,2026-05-17,Logistics,Resolved,Escalated to Hub
+EXC0372,ORD005031,Delayed Shipment,2026-04-16,Customer Support,Open,Pending Investigation
+EXC0373,ORD000229,Late Dispatch,2026-02-14,Customer Support,Open,Pending Investigation
+EXC0374,ORD006233,Late Dispatch,2026-06-16,Customer Support,In Progress,Stock Corrected
+EXC0375,ORD002498,Delayed Shipment,2026-06-12,Logistics,Resolved,Pending Investigation
+EXC0376,ORD010799,Late Dispatch,2026-04-19,Seller Mgmt,Resolved,Address Updated
+EXC0377,ORD007784,Inventory Mismatch,2026-04-21,Finance,Resolved,Refund Issued
+EXC0378,ORD005042,Cancelled Order,2026-03-09,Seller Mgmt,Resolved,Reshipped
+EXC0379,ORD011129,Payment Failure,2026-03-01,FC Ops,Resolved,Reshipped
+EXC0380,ORD000266,Late Dispatch,2026-06-04,Seller Mgmt,Resolved,Stock Corrected
+EXC0381,ORD007203,Inventory Mismatch,2026-02-24,Logistics,Open,Pending Investigation
+EXC0382,ORD005096,Inventory Mismatch,2026-07-04,Customer Support,Resolved,Refund Issued
+EXC0383,ORD007375,Cancelled Order,2026-04-05,Logistics,In Progress,Customer Contacted
+EXC0384,ORD005560,Delayed Shipment,2026-06-19,Logistics,Resolved,Stock Corrected
+EXC0385,ORD007765,Payment Failure,2026-06-07,FC Ops,Resolved,Address Updated
+EXC0386,ORD006295,Late Dispatch,2026-03-04,Finance,Resolved,Stock Corrected
+EXC0387,ORD001623,Delayed Shipment,2026-05-19,Seller Mgmt,In Progress,Refund Issued
+EXC0388,ORD010334,Inventory Mismatch,2026-06-24,Seller Mgmt,Resolved,Escalated to Hub
+EXC0389,ORD001747,Wrong Item,2026-04-03,Finance,Open,Pending Investigation
+EXC0390,ORD004602,Late Dispatch,2026-07-21,Customer Support,Resolved,Customer Contacted
+EXC0391,ORD010052,Payment Failure,2026-03-28,Logistics,Resolved,Refund Issued
+EXC0392,ORD005753,Address Issue,2026-04-15,Customer Support,Resolved,Customer Contacted
+EXC0393,ORD008737,Lost Shipment,2026-06-02,Finance,Resolved,Seller Notified
+EXC0394,ORD005382,Delayed Shipment,2026-06-14,FC Ops,Resolved,Seller Notified
+EXC0395,ORD008656,Delayed Shipment,2026-04-30,FC Ops,Resolved,Reshipped
+EXC0396,ORD009605,Wrong Item,2026-07-07,Finance,Resolved,Customer Contacted
+EXC0397,ORD001054,Payment Failure,2026-06-26,Logistics,Resolved,Address Updated
+EXC0398,ORD006939,Cancelled Order,2026-07-30,Logistics,Resolved,Stock Corrected
+EXC0399,ORD004650,Address Issue,2026-03-02,Finance,Resolved,Seller Notified
+EXC0400,ORD003536,Wrong Item,2026-06-22,Seller Mgmt,Open,Pending Investigation
+EXC0401,ORD006261,Delayed Shipment,2026-03-29,FC Ops,Open,Pending Investigation
+EXC0402,ORD005656,Delayed Shipment,2026-07-26,Customer Support,Resolved,Stock Corrected
+EXC0403,ORD006622,Late Dispatch,2026-06-07,Seller Mgmt,In Progress,Stock Corrected
+EXC0404,ORD001114,Address Issue,2026-07-06,Seller Mgmt,Resolved,Address Updated
+EXC0405,ORD005374,Address Issue,2026-05-06,FC Ops,Resolved,Refund Issued
+EXC0406,ORD001454,Address Issue,2026-04-06,Seller Mgmt,Resolved,Stock Corrected
+EXC0407,ORD001966,Delayed Shipment,2026-06-07,FC Ops,Open,Pending Investigation
+EXC0408,ORD004251,Delayed Shipment,2026-02-25,FC Ops,Resolved,Customer Contacted
+EXC0409,ORD006657,Late Dispatch,2026-03-14,Logistics,Resolved,Address Updated
+EXC0410,ORD001890,Address Issue,2026-07-11,Customer Support,Resolved,Seller Notified
+EXC0411,ORD000109,Late Dispatch,2026-02-05,Finance,Resolved,Escalated to Hub
+EXC0412,ORD005110,Payment Failure,2026-06-24,Customer Support,Resolved,Stock Corrected
+EXC0413,ORD006597,Late Dispatch,2026-04-13,Finance,In Progress,Reshipped
+EXC0414,ORD004623,Inventory Mismatch,2026-02-23,Customer Support,Resolved,Address Updated
+EXC0415,ORD005545,Wrong Item,2026-03-05,Customer Support,Resolved,Refund Issued
+EXC0416,ORD009285,Inventory Mismatch,2026-07-30,Seller Mgmt,Resolved,Pending Investigation
+EXC0417,ORD005584,Cancelled Order,2026-06-11,FC Ops,In Progress,Seller Notified
+EXC0418,ORD010007,Inventory Mismatch,2026-05-22,Finance,Open,Pending Investigation
+EXC0419,ORD010923,Inventory Mismatch,2026-05-01,Customer Support,Resolved,Seller Notified
+EXC0420,ORD005858,Address Issue,2026-05-22,Finance,Resolved,Pending Investigation
+EXC0421,ORD004831,Wrong Item,2026-05-22,Seller Mgmt,Resolved,Customer Contacted
+EXC0422,ORD004815,Address Issue,2026-05-06,Logistics,Open,Pending Investigation
+EXC0423,ORD001456,Inventory Mismatch,2026-03-30,Customer Support,Resolved,Escalated to Hub
+EXC0424,ORD010730,Cancelled Order,2026-06-27,FC Ops,Resolved,Seller Notified
+EXC0425,ORD002515,Payment Failure,2026-06-16,Logistics,Resolved,Seller Notified
+EXC0426,ORD006717,Late Dispatch,2026-06-26,Seller Mgmt,Resolved,Refund Issued
+EXC0427,ORD009233,Lost Shipment,2026-04-15,FC Ops,Open,Pending Investigation
+EXC0428,ORD008761,Lost Shipment,2026-02-12,Logistics,Resolved,Seller Notified
+EXC0429,ORD001323,Address Issue,2026-06-29,Logistics,Resolved,Address Updated
+EXC0430,ORD004171,Address Issue,2026-04-10,Customer Support,Resolved,Customer Contacted
+EXC0431,ORD007678,Wrong Item,2026-05-15,Logistics,Resolved,Escalated to Hub
+EXC0432,ORD003966,Lost Shipment,2026-05-16,Customer Support,In Progress,Reshipped
+EXC0433,ORD009980,Delayed Shipment,2026-02-06,Seller Mgmt,Resolved,Escalated to Hub
+EXC0434,ORD000420,Inventory Mismatch,2026-05-01,Customer Support,In Progress,Customer Contacted
+EXC0435,ORD006157,Late Dispatch,2026-05-26,Logistics,Open,Pending Investigation
+EXC0436,ORD010631,Delayed Shipment,2026-05-20,Customer Support,Resolved,Address Updated
+EXC0437,ORD006086,Cancelled Order,2026-06-22,Logistics,Resolved,Customer Contacted
+EXC0438,ORD001143,Delayed Shipment,2026-02-21,Logistics,Resolved,Refund Issued
+EXC0439,ORD005665,Wrong Item,2026-05-08,Seller Mgmt,Resolved,Reshipped
+EXC0440,ORD006893,Wrong Item,2026-03-25,Logistics,Resolved,Escalated to Hub
+EXC0441,ORD011115,Payment Failure,2026-03-21,Customer Support,Open,Pending Investigation
+EXC0442,ORD007014,Delayed Shipment,2026-04-22,FC Ops,In Progress,Stock Corrected
+EXC0443,ORD005302,Payment Failure,2026-07-13,Finance,Open,Pending Investigation
+EXC0444,ORD000741,Cancelled Order,2026-07-26,FC Ops,In Progress,Escalated to Hub
+EXC0445,ORD008817,Wrong Item,2026-03-09,FC Ops,Resolved,Refund Issued
+EXC0446,ORD000414,Address Issue,2026-05-22,Seller Mgmt,Resolved,Reshipped
+EXC0447,ORD000779,Delayed Shipment,2026-07-04,Seller Mgmt,Resolved,Address Updated
+EXC0448,ORD008178,Late Dispatch,2026-04-13,Customer Support,Resolved,Customer Contacted
+EXC0449,ORD008281,Payment Failure,2026-06-24,Seller Mgmt,Open,Pending Investigation
+EXC0450,ORD004092,Wrong Item,2026-05-09,Seller Mgmt,In Progress,Customer Contacted
+EXC0451,ORD002591,Delayed Shipment,2026-06-15,FC Ops,Resolved,Address Updated
+EXC0452,ORD007054,Late Dispatch,2026-05-08,Finance,In Progress,Reshipped
+EXC0453,ORD004588,Late Dispatch,2026-05-06,Customer Support,In Progress,Address Updated
+EXC0454,ORD010184,Cancelled Order,2026-03-13,FC Ops,Resolved,Seller Notified
+EXC0455,ORD002196,Payment Failure,2026-06-25,FC Ops,Resolved,Escalated to Hub
+EXC0456,ORD008135,Payment Failure,2026-04-18,Seller Mgmt,In Progress,Refund Issued
+EXC0457,ORD005873,Wrong Item,2026-06-01,FC Ops,In Progress,Address Updated
+EXC0458,ORD002537,Cancelled Order,2026-05-21,Customer Support,In Progress,Refund Issued
+EXC0459,ORD006950,Delayed Shipment,2026-06-26,Seller Mgmt,In Progress,Seller Notified
+EXC0460,ORD007821,Lost Shipment,2026-03-12,Seller Mgmt,Open,Pending Investigation
+EXC0461,ORD004847,Wrong Item,2026-04-16,Customer Support,Resolved,Customer Contacted
+EXC0462,ORD005177,Payment Failure,2026-07-30,Customer Support,Resolved,Address Updated
+EXC0463,ORD000938,Cancelled Order,2026-02-13,FC Ops,In Progress,Reshipped
+EXC0464,ORD002735,Inventory Mismatch,2026-06-20,Seller Mgmt,Resolved,Customer Contacted
+EXC0465,ORD000230,Delayed Shipment,2026-05-07,Seller Mgmt,Open,Pending Investigation
+EXC0466,ORD003327,Delayed Shipment,2026-07-10,Seller Mgmt,Resolved,Customer Contacted
+EXC0467,ORD010810,Payment Failure,2026-05-30,Customer Support,Resolved,Reshipped
+EXC0468,ORD005469,Late Dispatch,2026-07-19,FC Ops,In Progress,Escalated to Hub
+EXC0469,ORD011499,Late Dispatch,2026-05-05,Finance,Resolved,Escalated to Hub
+EXC0470,ORD002786,Inventory Mismatch,2026-03-22,Finance,Open,Pending Investigation
+EXC0471,ORD008061,Delayed Shipment,2026-02-23,Finance,In Progress,Address Updated
+EXC0472,ORD003057,Wrong Item,2026-02-19,Logistics,Resolved,Customer Contacted
+EXC0473,ORD000216,Cancelled Order,2026-04-14,Customer Support,Resolved,Address Updated
+EXC0474,ORD000154,Late Dispatch,2026-02-07,Finance,Resolved,Escalated to Hub
+EXC0475,ORD004470,Wrong Item,2026-07-03,Customer Support,Resolved,Stock Corrected
+EXC0476,ORD010100,Cancelled Order,2026-04-02,Finance,Open,Pending Investigation
+EXC0477,ORD001177,Late Dispatch,2026-06-23,FC Ops,Open,Pending Investigation
+EXC0478,ORD011164,Delayed Shipment,2026-05-14,Logistics,Open,Pending Investigation
+EXC0479,ORD005804,Delayed Shipment,2026-02-11,Logistics,Resolved,Seller Notified
+EXC0480,ORD004613,Wrong Item,2026-06-17,Logistics,In Progress,Address Updated
+EXC0481,ORD003009,Address Issue,2026-06-13,Seller Mgmt,Resolved,Address Updated
+EXC0482,ORD004960,Wrong Item,2026-02-27,FC Ops,In Progress,Stock Corrected
+EXC0483,ORD008544,Payment Failure,2026-06-02,Customer Support,Open,Pending Investigation
+EXC0484,ORD005911,Payment Failure,2026-04-27,Logistics,Resolved,Escalated to Hub
+EXC0485,ORD010471,Delayed Shipment,2026-03-05,Finance,Resolved,Address Updated
+EXC0486,ORD002077,Payment Failure,2026-07-01,Finance,In Progress,Refund Issued
+EXC0487,ORD005286,Delayed Shipment,2026-05-22,Finance,Open,Pending Investigation
+EXC0488,ORD002099,Late Dispatch,2026-04-27,FC Ops,In Progress,Escalated to Hub
+EXC0489,ORD003063,Address Issue,2026-06-14,Logistics,Resolved,Escalated to Hub
+EXC0490,ORD003462,Lost Shipment,2026-06-24,Customer Support,Resolved,Seller Notified
+EXC0491,ORD008365,Delayed Shipment,2026-06-06,Seller Mgmt,Resolved,Address Updated
+EXC0492,ORD001716,Delayed Shipment,2026-03-13,Customer Support,Open,Pending Investigation
+EXC0493,ORD009326,Address Issue,2026-05-23,Seller Mgmt,Resolved,Customer Contacted
+EXC0494,ORD005615,Wrong Item,2026-04-25,Finance,Open,Pending Investigation
+EXC0495,ORD004374,Lost Shipment,2026-07-29,FC Ops,Resolved,Pending Investigation
+EXC0496,ORD006875,Delayed Shipment,2026-03-30,Finance,Resolved,Pending Investigation
+EXC0497,ORD001533,Cancelled Order,2026-06-06,FC Ops,Resolved,Pending Investigation
+EXC0498,ORD005741,Payment Failure,2026-05-13,Logistics,In Progress,Seller Notified
+EXC0499,ORD008537,Address Issue,2026-03-12,FC Ops,In Progress,Pending Investigation
+EXC0500,ORD011065,Address Issue,2026-05-02,Seller Mgmt,In Progress,Stock Corrected
+EXC0501,ORD010491,Address Issue,2026-05-21,Seller Mgmt,Resolved,Reshipped
+EXC0502,ORD003193,Delayed Shipment,2026-05-23,Customer Support,Resolved,Escalated to Hub
+EXC0503,ORD004803,Late Dispatch,2026-03-14,FC Ops,Open,Pending Investigation
+EXC0504,ORD009054,Cancelled Order,2026-04-28,FC Ops,Resolved,Customer Contacted
+EXC0505,ORD001166,Delayed Shipment,2026-04-02,Customer Support,Resolved,Reshipped
+EXC0506,ORD002046,Delayed Shipment,2026-05-22,Logistics,In Progress,Seller Notified
+EXC0507,ORD008170,Inventory Mismatch,2026-07-23,Seller Mgmt,In Progress,Escalated to Hub
+EXC0508,ORD005843,Payment Failure,2026-03-15,Seller Mgmt,Open,Pending Investigation
+EXC0509,ORD008086,Delayed Shipment,2026-06-22,Finance,Open,Pending Investigation
+EXC0510,ORD006842,Delayed Shipment,2026-03-18,FC Ops,In Progress,Seller Notified
+EXC0511,ORD004065,Wrong Item,2026-04-09,Customer Support,Resolved,Seller Notified
+EXC0512,ORD000190,Wrong Item,2026-07-25,Seller Mgmt,In Progress,Stock Corrected
+EXC0513,ORD010656,Late Dispatch,2026-05-17,FC Ops,Resolved,Refund Issued
+EXC0514,ORD003785,Late Dispatch,2026-05-06,Logistics,Resolved,Refund Issued
+EXC0515,ORD010801,Inventory Mismatch,2026-07-16,FC Ops,Open,Pending Investigation
+EXC0516,ORD002589,Lost Shipment,2026-03-26,Customer Support,Resolved,Seller Notified
+EXC0517,ORD009676,Wrong Item,2026-05-29,Finance,Resolved,Pending Investigation
+EXC0518,ORD011019,Delayed Shipment,2026-06-04,Logistics,Resolved,Reshipped
+EXC0519,ORD006655,Delayed Shipment,2026-07-13,FC Ops,Resolved,Pending Investigation
+EXC0520,ORD010191,Wrong Item,2026-02-05,FC Ops,Resolved,Address Updated
+EXC0521,ORD006508,Wrong Item,2026-02-15,Customer Support,Open,Pending Investigation
+EXC0522,ORD000432,Delayed Shipment,2026-07-18,FC Ops,Resolved,Seller Notified
+EXC0523,ORD011383,Wrong Item,2026-05-02,Customer Support,Resolved,Address Updated
+EXC0524,ORD004576,Late Dispatch,2026-04-20,Logistics,Resolved,Pending Investigation
+EXC0525,ORD004729,Wrong Item,2026-04-03,Logistics,Resolved,Address Updated
+EXC0526,ORD000312,Address Issue,2026-07-03,Seller Mgmt,Open,Pending Investigation
+EXC0527,ORD003672,Lost Shipment,2026-05-07,Logistics,Resolved,Seller Notified
+EXC0528,ORD007332,Wrong Item,2026-04-22,Customer Support,Open,Pending Investigation
+EXC0529,ORD004870,Lost Shipment,2026-02-23,Customer Support,In Progress,Stock Corrected
+EXC0530,ORD010802,Lost Shipment,2026-07-17,FC Ops,Resolved,Refund Issued
+EXC0531,ORD001150,Inventory Mismatch,2026-03-20,Logistics,Resolved,Reshipped
+EXC0532,ORD004385,Late Dispatch,2026-03-04,Finance,Resolved,Address Updated
+EXC0533,ORD010162,Cancelled Order,2026-04-03,Customer Support,Open,Pending Investigation
+EXC0534,ORD010972,Cancelled Order,2026-03-22,Logistics,Resolved,Seller Notified
+EXC0535,ORD008990,Late Dispatch,2026-03-15,Seller Mgmt,In Progress,Stock Corrected
+EXC0536,ORD006379,Delayed Shipment,2026-02-09,Seller Mgmt,In Progress,Pending Investigation
+EXC0537,ORD008324,Lost Shipment,2026-05-13,Logistics,Resolved,Refund Issued
+EXC0538,ORD007067,Delayed Shipment,2026-07-20,Logistics,In Progress,Seller Notified
+EXC0539,ORD010005,Delayed Shipment,2026-03-25,Seller Mgmt,Resolved,Reshipped
+EXC0540,ORD007223,Address Issue,2026-04-23,Seller Mgmt,Resolved,Pending Investigation
+EXC0541,ORD000792,Delayed Shipment,2026-04-04,Customer Support,In Progress,Stock Corrected
+EXC0542,ORD004324,Address Issue,2026-03-30,Logistics,Open,Pending Investigation
+EXC0543,ORD002175,Delayed Shipment,2026-03-27,Seller Mgmt,Open,Pending Investigation
+EXC0544,ORD007129,Delayed Shipment,2026-07-30,Seller Mgmt,Resolved,Pending Investigation
+EXC0545,ORD005489,Cancelled Order,2026-02-13,Seller Mgmt,Open,Pending Investigation
+EXC0546,ORD008371,Late Dispatch,2026-06-14,Seller Mgmt,In Progress,Customer Contacted
+EXC0547,ORD010784,Delayed Shipment,2026-07-15,Logistics,Resolved,Pending Investigation
+EXC0548,ORD006204,Delayed Shipment,2026-05-22,Seller Mgmt,Resolved,Address Updated
+EXC0549,ORD007189,Inventory Mismatch,2026-02-06,FC Ops,Resolved,Pending Investigation
+EXC0550,ORD011514,Wrong Item,2026-04-30,Customer Support,In Progress,Stock Corrected
+EXC0551,ORD007451,Cancelled Order,2026-06-08,Customer Support,Resolved,Pending Investigation
+EXC0552,ORD008081,Delayed Shipment,2026-03-16,Finance,Open,Pending Investigation
+EXC0553,ORD001700,Late Dispatch,2026-04-27,Seller Mgmt,Resolved,Pending Investigation
+EXC0554,ORD009410,Delayed Shipment,2026-02-27,FC Ops,Resolved,Escalated to Hub
+EXC0555,ORD004364,Lost Shipment,2026-05-31,Logistics,Resolved,Seller Notified
+EXC0556,ORD007507,Late Dispatch,2026-05-29,Seller Mgmt,Resolved,Escalated to Hub
+EXC0557,ORD004770,Wrong Item,2026-05-16,FC Ops,Resolved,Pending Investigation
+EXC0558,ORD004360,Address Issue,2026-05-09,FC Ops,Resolved,Seller Notified
+EXC0559,ORD002386,Late Dispatch,2026-02-27,Finance,Open,Pending Investigation
+EXC0560,ORD004004,Late Dispatch,2026-07-02,FC Ops,Open,Pending Investigation
+EXC0561,ORD005205,Address Issue,2026-04-30,Seller Mgmt,Resolved,Escalated to Hub
+EXC0562,ORD005530,Cancelled Order,2026-03-29,Logistics,Resolved,Pending Investigation
+EXC0563,ORD006750,Address Issue,2026-07-27,Finance,Resolved,Reshipped
+EXC0564,ORD000336,Address Issue,2026-05-16,Customer Support,Resolved,Escalated to Hub
+EXC0565,ORD011136,Late Dispatch,2026-02-26,FC Ops,Resolved,Seller Notified
+EXC0566,ORD011288,Wrong Item,2026-07-27,Finance,Open,Pending Investigation
+EXC0567,ORD007326,Late Dispatch,2026-06-09,FC Ops,Resolved,Escalated to Hub
+EXC0568,ORD000107,Cancelled Order,2026-03-24,Seller Mgmt,Open,Pending Investigation
+EXC0569,ORD003661,Cancelled Order,2026-07-19,Seller Mgmt,Resolved,Customer Contacted
+EXC0570,ORD000944,Lost Shipment,2026-04-30,Finance,Resolved,Customer Contacted
+EXC0571,ORD005630,Cancelled Order,2026-05-18,Logistics,Resolved,Reshipped
+EXC0572,ORD008013,Address Issue,2026-06-29,Customer Support,Resolved,Stock Corrected
+EXC0573,ORD004188,Delayed Shipment,2026-03-02,Seller Mgmt,Open,Pending Investigation
+EXC0574,ORD010134,Cancelled Order,2026-07-06,Customer Support,Open,Pending Investigation
+EXC0575,ORD005585,Wrong Item,2026-03-11,Customer Support,Resolved,Stock Corrected
+EXC0576,ORD007245,Payment Failure,2026-04-15,Logistics,Resolved,Seller Notified
+EXC0577,ORD007627,Delayed Shipment,2026-05-09,FC Ops,Resolved,Address Updated
+EXC0578,ORD006505,Cancelled Order,2026-02-14,FC Ops,Resolved,Stock Corrected
+EXC0579,ORD008550,Payment Failure,2026-07-04,Customer Support,Resolved,Seller Notified
+EXC0580,ORD000290,Cancelled Order,2026-05-18,Seller Mgmt,Open,Pending Investigation
+EXC0581,ORD003885,Address Issue,2026-07-04,Finance,Resolved,Reshipped
+EXC0582,ORD002286,Payment Failure,2026-04-01,Logistics,In Progress,Address Updated
+EXC0583,ORD006464,Delayed Shipment,2026-05-28,Logistics,Resolved,Address Updated
+EXC0584,ORD009817,Delayed Shipment,2026-03-21,Finance,Resolved,Customer Contacted
+EXC0585,ORD005593,Address Issue,2026-03-25,Customer Support,Resolved,Pending Investigation
+EXC0586,ORD004346,Inventory Mismatch,2026-04-01,Seller Mgmt,Resolved,Address Updated
+EXC0587,ORD009498,Address Issue,2026-06-27,Customer Support,In Progress,Refund Issued
+EXC0588,ORD004333,Late Dispatch,2026-07-24,Customer Support,Resolved,Seller Notified
+EXC0589,ORD007523,Address Issue,2026-04-26,Customer Support,Resolved,Address Updated
+EXC0590,ORD008058,Payment Failure,2026-03-09,FC Ops,In Progress,Address Updated
+EXC0591,ORD003380,Cancelled Order,2026-03-12,Logistics,In Progress,Refund Issued
+EXC0592,ORD003439,Late Dispatch,2026-07-18,Seller Mgmt,Resolved,Address Updated
+EXC0593,ORD000196,Wrong Item,2026-03-26,FC Ops,In Progress,Pending Investigation
+EXC0594,ORD001615,Lost Shipment,2026-05-02,FC Ops,Resolved,Refund Issued
+EXC0595,ORD002903,Lost Shipment,2026-03-31,Logistics,In Progress,Customer Contacted
+EXC0596,ORD011292,Cancelled Order,2026-07-30,Logistics,In Progress,Escalated to Hub
+EXC0597,ORD002550,Delayed Shipment,2026-02-21,FC Ops,Open,Pending Investigation
+EXC0598,ORD005317,Wrong Item,2026-05-02,Seller Mgmt,Resolved,Address Updated
+EXC0599,ORD004421,Late Dispatch,2026-07-06,Customer Support,In Progress,Address Updated
+EXC0600,ORD001000,Cancelled Order,2026-02-16,Logistics,In Progress,Seller Notified
+EXC0601,ORD007881,Cancelled Order,2026-06-12,Finance,Resolved,Pending Investigation
+EXC0602,ORD005898,Payment Failure,2026-02-13,Finance,Open,Pending Investigation
+EXC0603,ORD009557,Wrong Item,2026-04-16,Seller Mgmt,In Progress,Seller Notified
+EXC0604,ORD003191,Lost Shipment,2026-07-11,Seller Mgmt,Resolved,Escalated to Hub
+EXC0605,ORD007092,Address Issue,2026-04-27,Seller Mgmt,Resolved,Address Updated
+EXC0606,ORD001300,Delayed Shipment,2026-07-10,Finance,Open,Pending Investigation
+EXC0607,ORD006254,Address Issue,2026-05-02,Seller Mgmt,Resolved,Pending Investigation
+EXC0608,ORD005531,Cancelled Order,2026-07-01,Logistics,Resolved,Refund Issued
+EXC0609,ORD007339,Cancelled Order,2026-02-06,Seller Mgmt,Resolved,Address Updated
+EXC0610,ORD008889,Delayed Shipment,2026-06-26,FC Ops,Open,Pending Investigation
+EXC0611,ORD005640,Lost Shipment,2026-04-21,FC Ops,Resolved,Customer Contacted
+EXC0612,ORD003788,Address Issue,2026-06-23,Finance,Resolved,Address Updated
+EXC0613,ORD009757,Payment Failure,2026-04-08,Customer Support,Resolved,Stock Corrected
+EXC0614,ORD006876,Late Dispatch,2026-02-19,Seller Mgmt,In Progress,Pending Investigation
+EXC0615,ORD004580,Lost Shipment,2026-04-16,Logistics,Open,Pending Investigation
+EXC0616,ORD003875,Lost Shipment,2026-03-22,Customer Support,In Progress,Stock Corrected
+EXC0617,ORD000974,Delayed Shipment,2026-05-01,Finance,Open,Pending Investigation
+EXC0618,ORD005306,Delayed Shipment,2026-05-22,Customer Support,Open,Pending Investigation
+EXC0619,ORD002556,Delayed Shipment,2026-03-19,Logistics,In Progress,Refund Issued
+EXC0620,ORD003630,Wrong Item,2026-03-16,Seller Mgmt,Resolved,Address Updated
+EXC0621,ORD007589,Wrong Item,2026-04-16,Customer Support,In Progress,Refund Issued
+EXC0622,ORD010546,Payment Failure,2026-06-28,Customer Support,Open,Pending Investigation
+EXC0623,ORD007498,Delayed Shipment,2026-03-01,Seller Mgmt,Resolved,Reshipped
+EXC0624,ORD002566,Late Dispatch,2026-06-11,Logistics,In Progress,Address Updated
+EXC0625,ORD002389,Late Dispatch,2026-04-24,Seller Mgmt,Open,Pending Investigation
+EXC0626,ORD011412,Wrong Item,2026-06-24,Logistics,In Progress,Stock Corrected
+EXC0627,ORD000928,Delayed Shipment,2026-06-01,Customer Support,Resolved,Pending Investigation
+EXC0628,ORD006005,Cancelled Order,2026-03-31,FC Ops,Open,Pending Investigation
+EXC0629,ORD000125,Delayed Shipment,2026-06-12,FC Ops,In Progress,Stock Corrected
+EXC0630,ORD003542,Late Dispatch,2026-04-11,Finance,Resolved,Refund Issued
+EXC0631,ORD006061,Delayed Shipment,2026-03-15,Finance,Resolved,Escalated to Hub
+EXC0632,ORD006100,Late Dispatch,2026-05-07,FC Ops,Open,Pending Investigation
+EXC0633,ORD006239,Delayed Shipment,2026-03-18,Customer Support,Resolved,Address Updated
+EXC0634,ORD005828,Inventory Mismatch,2026-07-08,FC Ops,Resolved,Customer Contacted
+EXC0635,ORD003213,Delayed Shipment,2026-04-13,Logistics,Resolved,Seller Notified
+EXC0636,ORD001630,Delayed Shipment,2026-05-26,Finance,In Progress,Pending Investigation
+EXC0637,ORD001238,Address Issue,2026-04-04,Finance,Open,Pending Investigation
+EXC0638,ORD003435,Delayed Shipment,2026-04-20,Seller Mgmt,Resolved,Customer Contacted
+EXC0639,ORD002747,Payment Failure,2026-06-25,Customer Support,Resolved,Customer Contacted
+EXC0640,ORD006681,Address Issue,2026-03-15,FC Ops,In Progress,Address Updated
+EXC0641,ORD002145,Address Issue,2026-02-05,Seller Mgmt,In Progress,Escalated to Hub
+EXC0642,ORD008878,Payment Failure,2026-03-01,Logistics,Resolved,Address Updated
+EXC0643,ORD006009,Delayed Shipment,2026-07-02,Finance,Open,Pending Investigation
+EXC0644,ORD005237,Late Dispatch,2026-04-08,FC Ops,Resolved,Escalated to Hub
+EXC0645,ORD002304,Payment Failure,2026-02-09,Logistics,Resolved,Reshipped
+EXC0646,ORD004970,Cancelled Order,2026-05-12,FC Ops,In Progress,Pending Investigation
+EXC0647,ORD002989,Payment Failure,2026-06-24,Finance,Resolved,Refund Issued
+EXC0648,ORD006607,Address Issue,2026-03-09,Finance,Open,Pending Investigation
+EXC0649,ORD005737,Inventory Mismatch,2026-03-12,FC Ops,Resolved,Refund Issued
+EXC0650,ORD003105,Inventory Mismatch,2026-03-20,Finance,Open,Pending Investigation
+EXC0651,ORD006426,Wrong Item,2026-07-11,Seller Mgmt,Resolved,Customer Contacted
+EXC0652,ORD010040,Wrong Item,2026-07-05,Seller Mgmt,Resolved,Seller Notified
+EXC0653,ORD001419,Address Issue,2026-04-13,Seller Mgmt,Open,Pending Investigation
+EXC0654,ORD010003,Cancelled Order,2026-07-08,Finance,Open,Pending Investigation
+EXC0655,ORD007624,Late Dispatch,2026-04-26,FC Ops,Resolved,Reshipped
+EXC0656,ORD000242,Delayed Shipment,2026-07-16,Seller Mgmt,Open,Pending Investigation
+EXC0657,ORD008255,Cancelled Order,2026-05-30,Logistics,Resolved,Refund Issued
+EXC0658,ORD010130,Wrong Item,2026-06-24,Seller Mgmt,Open,Pending Investigation
+EXC0659,ORD001392,Cancelled Order,2026-07-19,Customer Support,Resolved,Refund Issued
+EXC0660,ORD008846,Address Issue,2026-03-03,Finance,Resolved,Seller Notified
+EXC0661,ORD009932,Inventory Mismatch,2026-06-21,FC Ops,Open,Pending Investigation
+EXC0662,ORD005373,Cancelled Order,2026-05-14,Finance,Open,Pending Investigation
+EXC0663,ORD005594,Payment Failure,2026-06-25,Finance,Open,Pending Investigation
+EXC0664,ORD004038,Cancelled Order,2026-05-17,Seller Mgmt,Resolved,Seller Notified
+EXC0665,ORD003323,Wrong Item,2026-06-14,Logistics,Open,Pending Investigation
+EXC0666,ORD002244,Late Dispatch,2026-07-23,Customer Support,Resolved,Refund Issued
+EXC0667,ORD009501,Late Dispatch,2026-07-05,Finance,Resolved,Stock Corrected
+EXC0668,ORD007745,Lost Shipment,2026-02-18,Seller Mgmt,Resolved,Seller Notified
+EXC0669,ORD008357,Wrong Item,2026-04-27,Customer Support,In Progress,Stock Corrected
+EXC0670,ORD000810,Delayed Shipment,2026-06-22,Logistics,Resolved,Pending Investigation
+EXC0671,ORD007461,Lost Shipment,2026-03-14,Seller Mgmt,In Progress,Reshipped
+EXC0672,ORD006531,Lost Shipment,2026-02-28,Logistics,In Progress,Seller Notified
+EXC0673,ORD006726,Cancelled Order,2026-04-13,Customer Support,Resolved,Pending Investigation
+EXC0674,ORD004338,Delayed Shipment,2026-07-22,Customer Support,Resolved,Escalated to Hub
+EXC0675,ORD004594,Delayed Shipment,2026-03-16,FC Ops,Open,Pending Investigation
+EXC0676,ORD009504,Delayed Shipment,2026-03-03,Customer Support,Resolved,Customer Contacted
+EXC0677,ORD000002,Lost Shipment,2026-02-04,FC Ops,Open,Pending Investigation
+EXC0678,ORD004403,Cancelled Order,2026-03-30,Seller Mgmt,Open,Pending Investigation
+EXC0679,ORD004754,Late Dispatch,2026-02-05,Customer Support,Open,Pending Investigation
+EXC0680,ORD004782,Payment Failure,2026-04-30,Logistics,Resolved,Stock Corrected
+EXC0681,ORD006640,Address Issue,2026-05-24,Logistics,Resolved,Reshipped
+EXC0682,ORD010443,Delayed Shipment,2026-04-11,Customer Support,In Progress,Stock Corrected
+EXC0683,ORD009842,Payment Failure,2026-05-20,Customer Support,In Progress,Escalated to Hub
+EXC0684,ORD002697,Delayed Shipment,2026-04-28,Logistics,In Progress,Reshipped
+EXC0685,ORD007386,Delayed Shipment,2026-05-01,Finance,Resolved,Refund Issued
+EXC0686,ORD003652,Delayed Shipment,2026-03-02,Logistics,Resolved,Escalated to Hub
+EXC0687,ORD005556,Payment Failure,2026-02-07,FC Ops,Open,Pending Investigation
+EXC0688,ORD009828,Payment Failure,2026-07-27,Customer Support,Resolved,Address Updated
+EXC0689,ORD006167,Late Dispatch,2026-07-29,Customer Support,Resolved,Address Updated
+EXC0690,ORD004462,Late Dispatch,2026-06-06,FC Ops,Resolved,Seller Notified
+EXC0691,ORD005797,Delayed Shipment,2026-07-09,Logistics,Resolved,Reshipped
+EXC0692,ORD006596,Payment Failure,2026-06-05,Finance,In Progress,Seller Notified
+EXC0693,ORD004534,Late Dispatch,2026-05-29,FC Ops,Resolved,Reshipped
+EXC0694,ORD004296,Delayed Shipment,2026-05-31,Finance,Resolved,Escalated to Hub
+EXC0695,ORD006943,Delayed Shipment,2026-04-18,Logistics,Open,Pending Investigation
+EXC0696,ORD004641,Payment Failure,2026-07-03,Finance,Resolved,Reshipped
+EXC0697,ORD001827,Late Dispatch,2026-05-24,Seller Mgmt,In Progress,Refund Issued
+EXC0698,ORD011142,Cancelled Order,2026-05-23,Logistics,In Progress,Customer Contacted
+EXC0699,ORD007903,Address Issue,2026-05-06,FC Ops,Resolved,Address Updated
+EXC0700,ORD002695,Wrong Item,2026-04-08,Logistics,In Progress,Customer Contacted
+EXC0701,ORD006593,Delayed Shipment,2026-05-12,Logistics,Open,Pending Investigation
+EXC0702,ORD010620,Delayed Shipment,2026-02-20,Seller Mgmt,Resolved,Reshipped
+EXC0703,ORD003381,Cancelled Order,2026-06-18,Customer Support,Resolved,Customer Contacted
+EXC0704,ORD002817,Inventory Mismatch,2026-02-04,Finance,Resolved,Refund Issued
+EXC0705,ORD010102,Wrong Item,2026-02-20,Logistics,Resolved,Address Updated
+EXC0706,ORD002749,Lost Shipment,2026-04-27,Finance,Resolved,Pending Investigation
+EXC0707,ORD009126,Wrong Item,2026-02-14,Logistics,Resolved,Reshipped
+EXC0708,ORD010621,Inventory Mismatch,2026-02-23,Customer Support,Resolved,Address Updated
+EXC0709,ORD010127,Payment Failure,2026-05-07,Seller Mgmt,Open,Pending Investigation
+EXC0710,ORD011381,Delayed Shipment,2026-05-13,Finance,Open,Pending Investigation
+EXC0711,ORD009672,Inventory Mismatch,2026-03-07,Finance,Resolved,Customer Contacted
+EXC0712,ORD008277,Inventory Mismatch,2026-04-29,Seller Mgmt,Resolved,Pending Investigation
+EXC0713,ORD008674,Cancelled Order,2026-05-05,Customer Support,Resolved,Stock Corrected
+EXC0714,ORD004269,Address Issue,2026-06-11,FC Ops,Resolved,Address Updated
+EXC0715,ORD003642,Inventory Mismatch,2026-03-20,Logistics,Resolved,Stock Corrected
+EXC0716,ORD011210,Late Dispatch,2026-05-26,Logistics,Open,Pending Investigation
+EXC0717,ORD000632,Address Issue,2026-03-12,Logistics,Open,Pending Investigation
+EXC0718,ORD008113,Delayed Shipment,2026-05-23,Finance,Resolved,Escalated to Hub
+EXC0719,ORD000835,Delayed Shipment,2026-06-26,FC Ops,Resolved,Pending Investigation
+EXC0720,ORD004698,Cancelled Order,2026-05-04,Seller Mgmt,Resolved,Pending Investigation
+EXC0721,ORD003632,Address Issue,2026-05-13,Seller Mgmt,Resolved,Address Updated
+EXC0722,ORD007471,Delayed Shipment,2026-03-23,FC Ops,Resolved,Escalated to Hub
+EXC0723,ORD003042,Address Issue,2026-04-30,Seller Mgmt,Resolved,Customer Contacted
+EXC0724,ORD003977,Wrong Item,2026-06-29,Seller Mgmt,Resolved,Seller Notified
+EXC0725,ORD010641,Inventory Mismatch,2026-03-20,Logistics,Open,Pending Investigation
+EXC0726,ORD008350,Payment Failure,2026-05-22,Logistics,Open,Pending Investigation
+EXC0727,ORD010993,Cancelled Order,2026-06-07,Customer Support,Resolved,Reshipped
+EXC0728,ORD003827,Delayed Shipment,2026-04-12,Finance,In Progress,Escalated to Hub
+EXC0729,ORD010497,Wrong Item,2026-06-05,Seller Mgmt,In Progress,Pending Investigation
+EXC0730,ORD008754,Delayed Shipment,2026-03-12,Customer Support,In Progress,Seller Notified
+EXC0731,ORD009020,Delayed Shipment,2026-02-04,Seller Mgmt,Resolved,Pending Investigation
+EXC0732,ORD005195,Wrong Item,2026-07-04,Customer Support,In Progress,Address Updated
+EXC0733,ORD007534,Late Dispatch,2026-05-01,Logistics,In Progress,Customer Contacted
+EXC0734,ORD011074,Wrong Item,2026-02-08,Logistics,Resolved,Refund Issued
+EXC0735,ORD008292,Wrong Item,2026-05-20,FC Ops,Open,Pending Investigation
+EXC0736,ORD010551,Late Dispatch,2026-04-05,Customer Support,In Progress,Pending Investigation
+EXC0737,ORD009752,Address Issue,2026-07-09,Finance,Open,Pending Investigation
+EXC0738,ORD000326,Payment Failure,2026-07-11,Logistics,Open,Pending Investigation
+EXC0739,ORD005863,Late Dispatch,2026-04-19,Logistics,Resolved,Customer Contacted
+EXC0740,ORD004410,Cancelled Order,2026-05-09,Seller Mgmt,Resolved,Stock Corrected
+EXC0741,ORD007269,Inventory Mismatch,2026-03-11,Logistics,Resolved,Pending Investigation
+EXC0742,ORD000353,Wrong Item,2026-05-28,Finance,Resolved,Seller Notified
+EXC0743,ORD010968,Delayed Shipment,2026-07-17,Logistics,Open,Pending Investigation
+EXC0744,ORD003554,Late Dispatch,2026-06-18,Seller Mgmt,Resolved,Customer Contacted
+EXC0745,ORD010168,Delayed Shipment,2026-05-26,Customer Support,Resolved,Escalated to Hub
+EXC0746,ORD010744,Late Dispatch,2026-02-04,Finance,Resolved,Customer Contacted
+EXC0747,ORD001737,Cancelled Order,2026-04-23,FC Ops,Resolved,Escalated to Hub
+EXC0748,ORD005857,Address Issue,2026-04-21,Customer Support,Resolved,Escalated to Hub
+EXC0749,ORD010680,Wrong Item,2026-06-03,Logistics,Resolved,Refund Issued
+EXC0750,ORD005518,Delayed Shipment,2026-02-05,Logistics,Resolved,Seller Notified
+EXC0751,ORD010196,Address Issue,2026-02-28,Seller Mgmt,Resolved,Reshipped
+EXC0752,ORD007494,Late Dispatch,2026-06-25,Customer Support,Resolved,Seller Notified
+EXC0753,ORD003242,Delayed Shipment,2026-03-09,Customer Support,Resolved,Address Updated
+EXC0754,ORD005154,Address Issue,2026-02-28,Finance,Resolved,Pending Investigation
+EXC0755,ORD011009,Cancelled Order,2026-03-07,Seller Mgmt,Open,Pending Investigation
+EXC0756,ORD001174,Lost Shipment,2026-04-20,Customer Support,Resolved,Seller Notified
+EXC0757,ORD008732,Lost Shipment,2026-03-18,FC Ops,Resolved,Pending Investigation
+EXC0758,ORD004129,Address Issue,2026-05-13,Customer Support,Resolved,Pending Investigation
+EXC0759,ORD001759,Payment Failure,2026-03-10,FC Ops,Open,Pending Investigation
+EXC0760,ORD000051,Wrong Item,2026-07-31,Customer Support,In Progress,Pending Investigation
+EXC0761,ORD002295,Delayed Shipment,2026-02-08,Seller Mgmt,In Progress,Refund Issued
+EXC0762,ORD003012,Payment Failure,2026-07-06,Logistics,Resolved,Reshipped
+EXC0763,ORD003363,Delayed Shipment,2026-03-02,Finance,Resolved,Escalated to Hub
+EXC0764,ORD001498,Late Dispatch,2026-05-13,Customer Support,Open,Pending Investigation
+EXC0765,ORD001835,Delayed Shipment,2026-03-23,Seller Mgmt,Resolved,Seller Notified
+EXC0766,ORD008553,Cancelled Order,2026-07-20,Logistics,Resolved,Address Updated
+EXC0767,ORD008053,Payment Failure,2026-04-05,Logistics,Resolved,Seller Notified
+EXC0768,ORD006403,Cancelled Order,2026-02-15,Customer Support,Resolved,Escalated to Hub
+EXC0769,ORD006389,Address Issue,2026-07-01,Logistics,In Progress,Customer Contacted
+EXC0770,ORD002241,Inventory Mismatch,2026-04-22,Seller Mgmt,Resolved,Pending Investigation
+EXC0771,ORD008526,Inventory Mismatch,2026-04-14,Logistics,Resolved,Customer Contacted
+EXC0772,ORD005014,Delayed Shipment,2026-07-11,Customer Support,Resolved,Address Updated
+EXC0773,ORD000905,Cancelled Order,2026-03-05,Seller Mgmt,Open,Pending Investigation
+EXC0774,ORD011442,Delayed Shipment,2026-03-22,Customer Support,Resolved,Customer Contacted
+EXC0775,ORD009789,Cancelled Order,2026-07-12,Finance,In Progress,Customer Contacted
+EXC0776,ORD000574,Address Issue,2026-06-12,Seller Mgmt,In Progress,Pending Investigation
+EXC0777,ORD005429,Payment Failure,2026-05-31,Finance,Resolved,Escalated to Hub
+EXC0778,ORD009349,Late Dispatch,2026-07-01,FC Ops,Resolved,Escalated to Hub
+EXC0779,ORD009276,Lost Shipment,2026-03-04,Customer Support,Resolved,Escalated to Hub
+EXC0780,ORD009213,Delayed Shipment,2026-06-29,FC Ops,Resolved,Seller Notified
+EXC0781,ORD005485,Payment Failure,2026-03-04,Seller Mgmt,Resolved,Reshipped
+EXC0782,ORD000809,Cancelled Order,2026-06-13,Seller Mgmt,Resolved,Seller Notified
+EXC0783,ORD011152,Delayed Shipment,2026-03-04,Finance,Resolved,Customer Contacted
+EXC0784,ORD003476,Address Issue,2026-06-17,Logistics,Resolved,Reshipped
+EXC0785,ORD003945,Wrong Item,2026-07-24,Customer Support,Resolved,Stock Corrected
+EXC0786,ORD010673,Delayed Shipment,2026-02-25,Logistics,Resolved,Seller Notified
+EXC0787,ORD010903,Late Dispatch,2026-05-02,FC Ops,Resolved,Seller Notified
+EXC0788,ORD002525,Delayed Shipment,2026-02-11,FC Ops,Resolved,Pending Investigation
+EXC0789,ORD006855,Payment Failure,2026-06-03,Finance,Open,Pending Investigation
+EXC0790,ORD010164,Late Dispatch,2026-02-21,Customer Support,Resolved,Escalated to Hub
+EXC0791,ORD005844,Lost Shipment,2026-05-28,Seller Mgmt,In Progress,Escalated to Hub
+EXC0792,ORD001606,Cancelled Order,2026-03-05,FC Ops,Resolved,Reshipped
+EXC0793,ORD008128,Lost Shipment,2026-06-30,FC Ops,Resolved,Seller Notified
+EXC0794,ORD006243,Address Issue,2026-07-21,FC Ops,Resolved,Escalated to Hub
+EXC0795,ORD000987,Inventory Mismatch,2026-04-18,Logistics,Open,Pending Investigation
+EXC0796,ORD003085,Address Issue,2026-03-04,Logistics,In Progress,Seller Notified
+EXC0797,ORD000843,Cancelled Order,2026-06-12,Logistics,Resolved,Customer Contacted
+EXC0798,ORD006398,Address Issue,2026-02-15,Logistics,Resolved,Stock Corrected
+EXC0799,ORD003982,Cancelled Order,2026-07-18,FC Ops,Resolved,Escalated to Hub
+EXC0800,ORD008512,Cancelled Order,2026-07-22,Seller Mgmt,Resolved,Refund Issued

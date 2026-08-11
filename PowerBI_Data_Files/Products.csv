@@ -1,0 +1,501 @@
+SKU,Product_Name,Category,Seller_ID,Selling_Price,Cost_Price,Weight_kg,Volume_cbm,ABC_Category,Supplier,Lead_Time_Days
+SKU00001,Power Bank Essential,Electronics,SEL0136,3209.09,2287.34,0.86,1.474,C,Supplier 46,4
+SKU00002,Sunglasses Lite,Fashion,SEL0077,218.0,137.81,0.87,0.746,B,Supplier 34,4
+SKU00003,Sunscreen Lite,Beauty,SEL0010,1696.46,1314.42,0.46,0.44,B,Supplier 46,13
+SKU00004,Sunscreen Plus,Beauty,SEL0010,716.52,557.2,3.18,4.399,A,Supplier 18,9
+SKU00005,LED Lamp Deluxe,Home,SEL0017,130.56,94.7,3.94,4.989,B,Supplier 33,10
+SKU00006,Tea Pack Essential,Grocery,SEL0118,890.85,687.85,1.98,2.914,C,Supplier 20,10
+SKU00007,Perfume Max,Beauty,SEL0035,2729.77,2329.44,3.71,6.664,A,Supplier 36,12
+SKU00008,Cooking Oil 1L Pro,Grocery,SEL0008,2655.88,2301.12,1.55,1.308,A,Supplier 42,3
+SKU00009,Sneakers Classic,Fashion,SEL0094,2044.92,1444.57,6.8,5.485,C,Supplier 32,9
+SKU00010,Lipstick Classic,Beauty,SEL0093,2983.52,1943.7,2.07,4.319,B,Supplier 58,4
+SKU00011,Keyboard Deluxe,Electronics,SEL0091,6654.15,4389.51,2.58,4.951,C,Supplier 18,8
+SKU00012,Sneakers Max,Fashion,SEL0033,981.55,828.21,0.29,0.373,A,Supplier 42,15
+SKU00013,Atta 10kg Essential,Grocery,SEL0025,2645.75,1784.82,2.57,5.258,C,Supplier 14,10
+SKU00014,Football Classic,Sports,SEL0019,10242.15,8341.7,4.08,8.929,A,Supplier 55,3
+SKU00015,Dumbbell Set Deluxe,Sports,SEL0003,8508.78,7048.89,7.18,14.594,C,Supplier 10,10
+SKU00016,Women's Kurti Classic,Fashion,SEL0094,246.33,173.77,2.39,4.132,C,Supplier 12,4
+SKU00017,Yoga Mat Plus,Sports,SEL0003,4377.98,2836.86,2.07,3.426,C,Supplier 31,12
+SKU00018,Mouse Plus,Electronics,SEL0060,12268.36,8731.17,6.08,13.235,B,Supplier 55,15
+SKU00019,Cushion Cover Pro,Home,SEL0078,13244.02,9568.66,3.29,3.065,C,Supplier 39,15
+SKU00020,Smartwatch Plus,Electronics,SEL0060,2944.67,1860.54,1.47,1.587,C,Supplier 59,11
+SKU00021,Exam Guide Classic,Books,SEL0137,1777.58,1201.01,7.03,9.355,C,Supplier 6,14
+SKU00022,Charger Essential,Electronics,SEL0112,13238.94,9412.88,0.88,1.818,C,Supplier 51,7
+SKU00023,Storage Box Pro,Home,SEL0120,3735.93,2516.42,0.23,0.499,B,Supplier 48,4
+SKU00024,Sunglasses Deluxe,Fashion,SEL0108,1315.39,1016.84,4.89,7.889,B,Supplier 1,9
+SKU00025,USB Cable Deluxe,Electronics,SEL0091,7003.01,5654.27,3.05,4.123,A,Supplier 20,8
+SKU00026,Cooking Oil 1L Plus,Grocery,SEL0025,1392.86,881.72,1.99,1.868,C,Supplier 35,11
+SKU00027,LED Lamp Classic,Home,SEL0133,3070.28,2488.89,4.2,6.114,B,Supplier 8,15
+SKU00028,Rice 5kg Lite,Grocery,SEL0007,3465.24,2400.36,3.99,3.81,B,Supplier 8,6
+SKU00029,Cricket Bat Essential,Sports,SEL0045,16382.54,10530.39,7.88,17.141,C,Supplier 35,14
+SKU00030,Denim Jeans Pro,Fashion,SEL0011,1113.36,795.94,0.82,1.627,C,Supplier 24,4
+SKU00031,Sneakers Classic,Fashion,SEL0082,819.42,670.48,6.82,11.034,C,Supplier 44,7
+SKU00032,Resistance Band Max,Sports,SEL0045,7319.59,4905.87,6.19,6.744,C,Supplier 25,13
+SKU00033,Cricket Bat Deluxe,Sports,SEL0019,1620.21,1276.72,6.78,7.128,B,Supplier 4,6
+SKU00034,Women's Kurti Classic,Fashion,SEL0068,2744.4,1790.1,7.0,8.925,C,Supplier 43,11
+SKU00035,Moisturizer Classic,Beauty,SEL0038,700.1,445.07,7.11,13.426,C,Supplier 17,8
+SKU00036,Sneakers Lite,Fashion,SEL0074,1836.13,1364.59,1.1,1.074,C,Supplier 6,9
+SKU00037,Resistance Band Deluxe,Sports,SEL0073,2840.74,2029.84,1.7,1.963,A,Supplier 23,15
+SKU00038,Smartwatch Deluxe,Electronics,SEL0018,5570.3,3912.67,3.75,5.102,C,Supplier 39,13
+SKU00039,Mouse Deluxe,Electronics,SEL0029,14591.31,9834.23,3.78,3.833,C,Supplier 41,13
+SKU00040,USB Cable Pro,Electronics,SEL0052,6273.41,4161.45,5.0,9.256,C,Supplier 49,10
+SKU00041,Exam Guide Deluxe,Books,SEL0032,1614.48,1123.07,0.07,0.153,B,Supplier 52,15
+SKU00042,Lipstick Lite,Beauty,SEL0010,446.13,366.12,5.08,6.858,C,Supplier 39,15
+SKU00043,Denim Jeans Essential,Fashion,SEL0048,1706.99,1179.69,4.82,7.046,C,Supplier 32,4
+SKU00044,USB Cable Classic,Electronics,SEL0052,12494.95,8162.88,0.37,0.529,C,Supplier 45,5
+SKU00045,Women's Kurti Deluxe,Fashion,SEL0113,1956.28,1351.96,2.45,5.21,B,Supplier 44,7
+SKU00046,Lipstick Max,Beauty,SEL0111,2102.46,1426.46,4.1,8.487,B,Supplier 12,10
+SKU00047,Bluetooth Speaker Max,Electronics,SEL0098,6666.28,4945.23,1.05,0.975,C,Supplier 8,13
+SKU00048,Charger Plus,Electronics,SEL0099,409.34,315.62,1.62,3.061,C,Supplier 45,9
+SKU00049,Sunscreen Plus,Beauty,SEL0038,467.42,366.94,1.15,1.376,C,Supplier 54,15
+SKU00050,Notebook Pack Classic,Books,SEL0137,2019.76,1378.09,7.63,12.621,B,Supplier 19,7
+SKU00051,Men's T-Shirt Max,Fashion,SEL0094,3246.85,2441.51,5.5,4.579,B,Supplier 42,15
+SKU00052,Children's Storybook Plus,Books,SEL0132,1787.46,1137.66,6.84,8.558,C,Supplier 42,10
+SKU00053,Sneakers Plus,Fashion,SEL0074,1094.3,868.57,7.31,15.303,C,Supplier 56,12
+SKU00054,Men's T-Shirt Essential,Fashion,SEL0147,2872.0,1923.43,3.87,5.569,B,Supplier 36,6
+SKU00055,Formal Shirt Max,Fashion,SEL0097,963.61,681.63,3.31,3.662,C,Supplier 18,10
+SKU00056,Storage Box Classic,Home,SEL0130,220.54,169.48,6.39,12.619,A,Supplier 42,13
+SKU00057,Atta 10kg Pro,Grocery,SEL0117,1608.41,1005.65,1.58,1.605,B,Supplier 24,14
+SKU00058,Sunscreen Deluxe,Beauty,SEL0093,2897.83,2453.01,1.15,2.193,B,Supplier 29,14
+SKU00059,Cookware Set Plus,Home,SEL0133,2154.6,1413.19,1.45,2.02,C,Supplier 15,15
+SKU00060,Denim Jeans Plus,Fashion,SEL0076,2632.62,1649.08,8.0,12.184,A,Supplier 41,4
+SKU00061,Yoga Mat Deluxe,Sports,SEL0110,5259.74,3874.45,3.43,2.991,C,Supplier 46,13
+SKU00062,Cookware Set Essential,Home,SEL0054,15193.82,9998.87,3.36,4.201,C,Supplier 43,9
+SKU00063,Cookware Set Lite,Home,SEL0121,13028.2,10724.93,7.04,6.579,A,Supplier 19,11
+SKU00064,Cookware Set Pro,Home,SEL0081,816.04,709.46,3.52,6.633,A,Supplier 20,6
+SKU00065,Charger Essential,Electronics,SEL0098,2532.59,2082.57,6.89,13.452,C,Supplier 27,3
+SKU00066,Earbuds Pro,Electronics,SEL0123,7087.29,4782.22,2.1,3.892,C,Supplier 32,4
+SKU00067,Handbag Lite,Fashion,SEL0113,1187.91,951.37,1.71,3.167,A,Supplier 45,15
+SKU00068,LED Lamp Classic,Home,SEL0013,3299.46,2170.13,3.22,7.041,A,Supplier 59,14
+SKU00069,Smartwatch Lite,Electronics,SEL0099,7353.96,4763.58,7.81,15.792,A,Supplier 37,6
+SKU00070,Sneakers Plus,Fashion,SEL0034,1122.68,758.25,4.55,7.149,C,Supplier 22,8
+SKU00071,Lipstick Pro,Beauty,SEL0107,243.18,171.17,3.92,4.564,B,Supplier 16,6
+SKU00072,Bedsheet Set Essential,Home,SEL0114,8959.24,6769.78,2.2,3.368,B,Supplier 27,4
+SKU00073,Charger Plus,Electronics,SEL0085,998.23,867.66,1.74,3.571,C,Supplier 46,14
+SKU00074,Mouse Deluxe,Electronics,SEL0026,7751.44,5681.87,7.49,6.616,B,Supplier 28,11
+SKU00075,Lipstick Classic,Beauty,SEL0088,2137.28,1714.84,0.84,0.915,B,Supplier 31,3
+SKU00076,Face Wash Pro,Beauty,SEL0027,2792.44,2157.69,2.92,2.562,B,Supplier 21,5
+SKU00077,Cushion Cover Plus,Home,SEL0040,3918.19,2528.25,7.44,6.992,A,Supplier 4,10
+SKU00078,Bluetooth Speaker Plus,Electronics,SEL0018,2352.3,1533.87,6.05,11.784,C,Supplier 9,14
+SKU00079,Bluetooth Speaker Pro,Electronics,SEL0150,6301.44,4863.08,7.59,12.202,C,Supplier 55,15
+SKU00080,Mouse Deluxe,Electronics,SEL0026,8265.54,6023.78,7.77,10.358,B,Supplier 47,5
+SKU00081,Lipstick Pro,Beauty,SEL0088,1034.9,836.66,0.87,1.751,C,Supplier 35,10
+SKU00082,Curtain Max,Home,SEL0054,7495.59,5223.71,7.42,15.626,B,Supplier 46,3
+SKU00083,Power Bank Lite,Electronics,SEL0050,9300.75,6849.78,5.29,8.338,B,Supplier 58,5
+SKU00084,Earbuds Max,Electronics,SEL0052,1479.61,1208.11,5.8,7.799,B,Supplier 47,5
+SKU00085,Mouse Essential,Electronics,SEL0085,4792.15,3148.47,7.42,12.142,C,Supplier 59,8
+SKU00086,Atta 10kg Deluxe,Grocery,SEL0008,1583.9,1011.59,4.65,3.75,A,Supplier 56,7
+SKU00087,Sunglasses Lite,Fashion,SEL0103,170.72,115.0,6.82,10.196,B,Supplier 27,12
+SKU00088,Atta 10kg Essential,Grocery,SEL0001,1329.47,860.25,3.02,4.805,B,Supplier 40,9
+SKU00089,Tea Pack Essential,Grocery,SEL0025,1762.44,1266.65,7.73,16.612,C,Supplier 51,7
+SKU00090,Keyboard Plus,Electronics,SEL0029,13907.0,10547.52,0.85,1.645,B,Supplier 15,14
+SKU00091,Charger Deluxe,Electronics,SEL0085,9815.15,7317.96,2.99,4.14,A,Supplier 52,11
+SKU00092,Cookware Set Essential,Home,SEL0120,4464.89,3470.01,7.0,5.835,C,Supplier 30,12
+SKU00093,Lipstick Plus,Beauty,SEL0070,653.29,450.31,3.05,5.082,A,Supplier 35,12
+SKU00094,Sunscreen Lite,Beauty,SEL0070,697.5,575.1,1.55,1.987,A,Supplier 31,7
+SKU00095,Novel Max,Books,SEL0143,3227.78,2031.98,0.69,1.182,C,Supplier 53,14
+SKU00096,LED Lamp Lite,Home,SEL0096,6085.5,5218.43,4.3,9.421,C,Supplier 39,3
+SKU00097,Cooking Oil 1L Plus,Grocery,SEL0007,1228.45,789.32,0.41,0.865,C,Supplier 54,6
+SKU00098,Power Bank Pro,Electronics,SEL0018,12237.17,10029.72,4.3,8.953,C,Supplier 42,5
+SKU00099,Mouse Lite,Electronics,SEL0060,1320.07,832.36,2.52,2.684,B,Supplier 12,3
+SKU00100,Moisturizer Pro,Beauty,SEL0145,3193.89,2174.89,6.65,14.406,C,Supplier 22,15
+SKU00101,Shampoo Pro,Beauty,SEL0142,2790.66,1999.68,4.37,8.996,C,Supplier 26,4
+SKU00102,Spice Combo Lite,Grocery,SEL0106,1546.51,1168.19,2.92,3.936,A,Supplier 43,8
+SKU00103,Comic Set Essential,Books,SEL0012,1792.96,1142.88,4.92,4.178,A,Supplier 51,13
+SKU00104,Cooking Oil 1L Deluxe,Grocery,SEL0031,809.67,585.83,7.49,16.239,B,Supplier 34,11
+SKU00105,Tea Pack Classic,Grocery,SEL0008,253.94,205.15,4.57,9.494,C,Supplier 39,14
+SKU00106,Handbag Classic,Fashion,SEL0094,2872.33,2011.43,6.92,14.728,B,Supplier 7,3
+SKU00107,Dumbbell Set Classic,Sports,SEL0014,8349.01,5299.07,3.06,5.75,C,Supplier 25,9
+SKU00108,USB Cable Max,Electronics,SEL0028,11427.67,7866.05,3.51,3.932,C,Supplier 54,3
+SKU00109,Charger Deluxe,Electronics,SEL0026,2779.81,2319.81,4.01,6.125,C,Supplier 56,5
+SKU00110,Cookware Set Deluxe,Home,SEL0066,8021.81,5876.46,3.4,3.038,C,Supplier 15,13
+SKU00111,Perfume Plus,Beauty,SEL0035,277.8,174.54,3.78,7.77,B,Supplier 43,3
+SKU00112,Perfume Essential,Beauty,SEL0010,2460.01,1638.05,3.45,5.841,C,Supplier 46,10
+SKU00113,Denim Jeans Max,Fashion,SEL0095,2430.05,1673.2,7.69,10.145,B,Supplier 38,3
+SKU00114,LED Lamp Lite,Home,SEL0122,12021.79,8859.95,1.76,3.244,A,Supplier 23,7
+SKU00115,LED Lamp Plus,Home,SEL0030,13954.02,8987.46,2.22,2.12,C,Supplier 48,15
+SKU00116,Cricket Bat Classic,Sports,SEL0024,4931.88,3552.65,7.07,13.184,C,Supplier 50,7
+SKU00117,Perfume Max,Beauty,SEL0027,1486.48,1222.09,2.22,2.734,A,Supplier 42,7
+SKU00118,Spice Combo Plus,Grocery,SEL0083,302.45,221.33,6.27,11.582,C,Supplier 13,4
+SKU00119,Sneakers Essential,Fashion,SEL0068,839.72,639.85,1.45,2.109,B,Supplier 43,13
+SKU00120,Keyboard Essential,Electronics,SEL0037,4863.29,3821.05,1.09,1.542,B,Supplier 51,5
+SKU00121,Snack Pack Classic,Grocery,SEL0056,3011.1,1919.73,4.01,6.818,C,Supplier 37,9
+SKU00122,Bluetooth Speaker Plus,Electronics,SEL0150,16658.39,10686.17,6.34,9.163,A,Supplier 42,3
+SKU00123,Dumbbell Set Lite,Sports,SEL0003,7962.85,5972.23,4.57,7.189,C,Supplier 59,3
+SKU00124,Curtain Classic,Home,SEL0017,14599.46,9532.62,7.96,16.096,C,Supplier 10,13
+SKU00125,Men's T-Shirt Max,Fashion,SEL0048,1005.67,706.81,7.51,9.632,C,Supplier 37,3
+SKU00126,Cricket Bat Classic,Sports,SEL0045,2830.35,2406.61,7.6,10.367,C,Supplier 1,9
+SKU00127,Formal Shirt Classic,Fashion,SEL0103,727.21,479.88,2.15,4.469,A,Supplier 18,8
+SKU00128,Cushion Cover Essential,Home,SEL0102,3675.39,2884.26,7.72,9.036,B,Supplier 59,4
+SKU00129,Curtain Classic,Home,SEL0065,13966.26,9327.43,3.06,6.026,B,Supplier 40,11
+SKU00130,Atta 10kg Lite,Grocery,SEL0001,2901.54,2485.49,1.7,2.595,C,Supplier 46,12
+SKU00131,Yoga Mat Max,Sports,SEL0014,11835.18,8985.14,1.55,1.664,B,Supplier 26,15
+SKU00132,Handbag Deluxe,Fashion,SEL0072,2371.44,1623.52,7.86,10.82,B,Supplier 15,5
+SKU00133,Rice 5kg Classic,Grocery,SEL0139,2737.88,1838.05,0.83,1.208,B,Supplier 11,15
+SKU00134,Bluetooth Speaker Lite,Electronics,SEL0028,5324.04,3530.0,7.27,13.986,B,Supplier 36,3
+SKU00135,Yoga Mat Classic,Sports,SEL0042,2660.71,1689.65,3.25,3.622,C,Supplier 38,4
+SKU00136,Power Bank Pro,Electronics,SEL0060,2890.19,2010.34,6.27,6.868,C,Supplier 37,10
+SKU00137,Smartwatch Essential,Electronics,SEL0128,3276.31,2793.72,6.95,8.535,C,Supplier 32,14
+SKU00138,Storage Box Pro,Home,SEL0114,14760.39,9387.59,5.84,8.279,C,Supplier 12,14
+SKU00139,Snack Pack Essential,Grocery,SEL0080,3064.01,2060.24,2.34,2.258,B,Supplier 19,12
+SKU00140,Formal Shirt Lite,Fashion,SEL0076,1961.79,1477.48,6.31,13.115,B,Supplier 46,3
+SKU00141,Moisturizer Plus,Beauty,SEL0111,1644.27,1331.57,6.37,13.663,C,Supplier 49,8
+SKU00142,Face Wash Deluxe,Beauty,SEL0138,1311.47,912.52,3.82,8.332,A,Supplier 36,13
+SKU00143,Shampoo Deluxe,Beauty,SEL0062,1122.26,745.93,3.09,6.711,C,Supplier 47,9
+SKU00144,Cooking Oil 1L Essential,Grocery,SEL0046,1245.43,875.3,5.28,10.356,A,Supplier 27,5
+SKU00145,Sunglasses Plus,Fashion,SEL0034,1964.29,1430.63,0.49,0.631,C,Supplier 45,11
+SKU00146,Mouse Max,Electronics,SEL0005,13307.88,11346.17,6.01,6.976,C,Supplier 14,4
+SKU00147,Charger Deluxe,Electronics,SEL0112,3686.37,2653.82,6.25,7.15,B,Supplier 25,12
+SKU00148,Power Bank Deluxe,Electronics,SEL0005,12268.34,8543.4,5.96,9.204,B,Supplier 8,3
+SKU00149,Men's T-Shirt Plus,Fashion,SEL0068,842.62,543.76,6.5,8.381,C,Supplier 8,7
+SKU00150,Women's Kurti Deluxe,Fashion,SEL0022,3539.84,2262.09,2.69,2.789,B,Supplier 8,6
+SKU00151,Yoga Mat Pro,Sports,SEL0014,1483.66,929.95,0.64,0.631,C,Supplier 44,15
+SKU00152,Face Wash Essential,Beauty,SEL0088,2468.56,1595.73,5.13,7.854,C,Supplier 25,12
+SKU00153,Formal Shirt Max,Fashion,SEL0068,1466.43,1195.75,6.38,7.433,A,Supplier 45,11
+SKU00154,Mouse Essential,Electronics,SEL0037,5858.23,4016.0,6.86,6.235,C,Supplier 13,9
+SKU00155,Handbag Classic,Fashion,SEL0047,2709.96,1737.81,2.4,3.831,B,Supplier 21,6
+SKU00156,Power Bank Plus,Electronics,SEL0084,10522.32,7355.2,1.12,1.983,C,Supplier 34,14
+SKU00157,Formal Shirt Pro,Fashion,SEL0103,1527.19,1144.76,0.74,0.822,B,Supplier 50,15
+SKU00158,Mouse Classic,Electronics,SEL0112,13915.09,9970.62,6.1,8.916,B,Supplier 5,5
+SKU00159,Perfume Deluxe,Beauty,SEL0093,1741.73,1254.94,4.84,8.869,A,Supplier 25,6
+SKU00160,Curtain Lite,Home,SEL0078,15184.09,11066.49,3.77,8.094,B,Supplier 35,7
+SKU00161,Bluetooth Speaker Classic,Electronics,SEL0028,1397.15,1214.64,3.48,6.532,C,Supplier 42,9
+SKU00162,Smartwatch Lite,Electronics,SEL0005,3019.6,1919.05,1.38,2.315,B,Supplier 24,6
+SKU00163,Denim Jeans Max,Fashion,SEL0097,2396.19,1911.13,7.25,10.877,C,Supplier 30,8
+SKU00164,Power Bank Deluxe,Electronics,SEL0128,3516.8,2749.43,2.04,2.383,C,Supplier 45,15
+SKU00165,Earbuds Deluxe,Electronics,SEL0150,9141.66,6359.14,6.89,14.511,B,Supplier 23,7
+SKU00166,Spice Combo Essential,Grocery,SEL0080,1068.69,792.85,7.89,17.193,C,Supplier 35,15
+SKU00167,Cushion Cover Classic,Home,SEL0120,5451.81,3904.53,4.51,6.8,C,Supplier 25,9
+SKU00168,Perfume Essential,Beauty,SEL0062,1126.32,867.2,1.06,1.128,C,Supplier 59,7
+SKU00169,Bedsheet Set Classic,Home,SEL0067,12777.42,9131.35,0.22,0.273,A,Supplier 16,15
+SKU00170,Keyboard Classic,Electronics,SEL0099,1003.41,854.17,4.67,3.878,C,Supplier 7,8
+SKU00171,Dumbbell Set Plus,Sports,SEL0024,7260.06,5380.68,0.62,1.193,C,Supplier 8,13
+SKU00172,Shampoo Classic,Beauty,SEL0002,3164.22,2264.57,1.24,1.344,C,Supplier 9,7
+SKU00173,Smartwatch Plus,Electronics,SEL0109,15701.54,11441.53,2.44,3.582,B,Supplier 44,15
+SKU00174,Handbag Pro,Fashion,SEL0034,1342.11,912.92,0.2,0.283,C,Supplier 15,12
+SKU00175,Storage Box Essential,Home,SEL0092,14322.46,9741.4,0.87,1.275,C,Supplier 41,14
+SKU00176,Smartwatch Pro,Electronics,SEL0037,3718.93,2745.2,3.34,3.498,C,Supplier 34,3
+SKU00177,Tea Pack Classic,Grocery,SEL0139,2695.27,2327.45,7.4,15.782,A,Supplier 52,4
+SKU00178,Charger Deluxe,Electronics,SEL0115,17261.98,10878.35,4.43,4.029,C,Supplier 4,3
+SKU00179,Sunscreen Plus,Beauty,SEL0093,1509.04,1072.27,1.27,2.331,A,Supplier 42,9
+SKU00180,Yoga Mat Essential,Sports,SEL0110,7879.03,5711.83,2.53,5.458,C,Supplier 2,8
+SKU00181,Snack Pack Classic,Grocery,SEL0056,798.91,587.97,7.54,13.782,B,Supplier 56,15
+SKU00182,Charger Max,Electronics,SEL0129,12880.35,10232.53,4.97,10.424,B,Supplier 6,6
+SKU00183,Notebook Pack Deluxe,Books,SEL0104,498.48,418.97,5.41,6.901,A,Supplier 25,5
+SKU00184,Handbag Essential,Fashion,SEL0072,973.69,748.55,6.77,10.345,C,Supplier 3,13
+SKU00185,Curtain Deluxe,Home,SEL0067,9421.85,7837.47,7.09,10.528,A,Supplier 16,6
+SKU00186,Novel Plus,Books,SEL0023,212.39,166.06,1.16,1.644,B,Supplier 32,12
+SKU00187,Cookware Set Classic,Home,SEL0079,658.97,461.96,3.02,5.17,A,Supplier 25,6
+SKU00188,Dumbbell Set Classic,Sports,SEL0003,7329.58,5522.04,6.49,8.625,C,Supplier 13,10
+SKU00189,Face Wash Pro,Beauty,SEL0090,1712.49,1312.08,3.4,3.197,C,Supplier 50,4
+SKU00190,Moisturizer Pro,Beauty,SEL0142,2275.49,1523.36,2.31,4.395,C,Supplier 16,11
+SKU00191,Keyboard Deluxe,Electronics,SEL0140,789.57,584.77,4.4,4.424,B,Supplier 6,14
+SKU00192,Moisturizer Pro,Beauty,SEL0149,1771.79,1158.64,2.63,3.871,C,Supplier 18,11
+SKU00193,Men's T-Shirt Pro,Fashion,SEL0072,278.41,176.72,2.16,3.252,A,Supplier 33,14
+SKU00194,Rice 5kg Deluxe,Grocery,SEL0064,2032.82,1280.91,2.11,3.178,C,Supplier 10,13
+SKU00195,Men's T-Shirt Classic,Fashion,SEL0068,2844.3,2145.91,4.27,9.254,A,Supplier 42,10
+SKU00196,Cooking Oil 1L Pro,Grocery,SEL0046,1252.48,1010.0,5.46,5.754,C,Supplier 22,15
+SKU00197,Storage Box Max,Home,SEL0040,6241.24,4238.42,3.76,4.91,C,Supplier 4,9
+SKU00198,Power Bank Classic,Electronics,SEL0086,14097.14,10809.09,0.36,0.537,A,Supplier 57,4
+SKU00199,Charger Essential,Electronics,SEL0036,2479.35,1638.56,7.5,12.369,C,Supplier 25,10
+SKU00200,Formal Shirt Deluxe,Fashion,SEL0108,1084.77,886.77,4.18,6.465,A,Supplier 27,11
+SKU00201,LED Lamp Pro,Home,SEL0092,14134.53,11137.81,0.36,0.343,B,Supplier 20,5
+SKU00202,Resistance Band Pro,Sports,SEL0042,4217.46,3409.91,3.06,4.098,B,Supplier 21,4
+SKU00203,Power Bank Pro,Electronics,SEL0050,472.11,380.44,6.07,13.276,C,Supplier 3,11
+SKU00204,Handbag Lite,Fashion,SEL0076,1229.66,820.72,6.13,12.15,C,Supplier 11,8
+SKU00205,Bedsheet Set Essential,Home,SEL0066,12491.46,9692.27,7.44,6.935,C,Supplier 27,9
+SKU00206,Yoga Mat Pro,Sports,SEL0116,9209.14,7902.26,6.17,11.84,C,Supplier 31,13
+SKU00207,Power Bank Pro,Electronics,SEL0129,4502.28,3369.01,0.39,0.557,B,Supplier 58,11
+SKU00208,Mouse Max,Electronics,SEL0059,13431.95,10562.59,7.16,9.998,B,Supplier 44,14
+SKU00209,Men's T-Shirt Max,Fashion,SEL0076,936.59,680.56,1.26,1.629,C,Supplier 33,5
+SKU00210,LED Lamp Essential,Home,SEL0063,4981.48,3140.12,6.29,13.553,C,Supplier 10,12
+SKU00211,Sunglasses Lite,Fashion,SEL0022,708.17,466.45,4.69,5.482,C,Supplier 56,10
+SKU00212,Power Bank Lite,Electronics,SEL0018,10205.74,8674.8,4.8,9.323,A,Supplier 31,3
+SKU00213,Denim Jeans Classic,Fashion,SEL0077,2014.69,1674.16,7.5,15.395,A,Supplier 16,3
+SKU00214,Bedsheet Set Plus,Home,SEL0049,11656.1,8639.3,1.29,1.22,C,Supplier 46,7
+SKU00215,Power Bank Deluxe,Electronics,SEL0069,9124.18,5829.92,0.75,0.72,C,Supplier 39,11
+SKU00216,Exam Guide Max,Books,SEL0143,1245.52,920.15,3.36,3.582,C,Supplier 51,5
+SKU00217,Lipstick Plus,Beauty,SEL0038,250.45,214.53,5.25,6.692,C,Supplier 27,10
+SKU00218,Perfume Deluxe,Beauty,SEL0015,2909.28,1883.86,1.13,1.41,B,Supplier 52,15
+SKU00219,LED Lamp Max,Home,SEL0081,1056.38,802.72,2.07,2.774,A,Supplier 42,4
+SKU00220,Cookware Set Plus,Home,SEL0040,6144.35,4706.79,4.29,8.068,B,Supplier 18,4
+SKU00221,Power Bank Deluxe,Electronics,SEL0089,9827.39,6302.0,6.36,5.611,B,Supplier 59,15
+SKU00222,Atta 10kg Deluxe,Grocery,SEL0105,1397.95,1173.02,4.52,4.417,C,Supplier 2,6
+SKU00223,Men's T-Shirt Essential,Fashion,SEL0077,3123.91,2179.94,4.92,9.133,C,Supplier 31,14
+SKU00224,Earbuds Pro,Electronics,SEL0131,8369.26,6709.79,6.89,11.766,B,Supplier 2,7
+SKU00225,Keyboard Max,Electronics,SEL0029,10518.21,8469.03,0.79,1.614,C,Supplier 5,12
+SKU00226,Cookware Set Max,Home,SEL0030,17135.24,11667.08,4.9,6.03,B,Supplier 41,3
+SKU00227,Novel Essential,Books,SEL0006,179.49,155.78,5.85,12.451,C,Supplier 13,11
+SKU00228,Smartwatch Lite,Electronics,SEL0071,6841.73,5278.75,4.2,5.895,C,Supplier 38,14
+SKU00229,Storage Box Deluxe,Home,SEL0135,1347.74,1018.62,1.49,1.927,B,Supplier 17,7
+SKU00230,Face Wash Essential,Beauty,SEL0027,1979.45,1265.91,0.31,0.277,B,Supplier 45,11
+SKU00231,Cookware Set Classic,Home,SEL0013,14721.21,11833.47,1.63,2.613,B,Supplier 50,5
+SKU00232,Face Wash Max,Beauty,SEL0088,2516.34,2075.57,3.46,6.109,C,Supplier 50,5
+SKU00233,Atta 10kg Lite,Grocery,SEL0056,269.11,219.39,0.6,1.091,B,Supplier 1,3
+SKU00234,Earbuds Pro,Electronics,SEL0109,15811.64,10361.57,0.76,0.633,A,Supplier 33,9
+SKU00235,Charger Classic,Electronics,SEL0129,8876.64,6615.42,6.37,9.456,C,Supplier 53,9
+SKU00236,Lipstick Classic,Beauty,SEL0149,2446.56,2085.22,3.85,7.857,C,Supplier 55,4
+SKU00237,Handbag Classic,Fashion,SEL0103,1414.25,1075.51,4.2,6.078,B,Supplier 42,5
+SKU00238,Spice Combo Classic,Grocery,SEL0046,1149.75,944.37,6.98,11.468,A,Supplier 27,10
+SKU00239,Snack Pack Essential,Grocery,SEL0105,769.58,631.96,0.12,0.104,C,Supplier 11,7
+SKU00240,Moisturizer Pro,Beauty,SEL0149,2226.07,1882.77,4.76,8.846,B,Supplier 34,6
+SKU00241,Moisturizer Plus,Beauty,SEL0002,3137.67,2478.55,1.56,1.519,C,Supplier 37,3
+SKU00242,Moisturizer Essential,Beauty,SEL0090,2940.41,1895.03,6.46,7.404,C,Supplier 45,3
+SKU00243,Resistance Band Max,Sports,SEL0045,16300.41,11188.78,7.8,10.793,C,Supplier 55,11
+SKU00244,Denim Jeans Pro,Fashion,SEL0074,873.97,629.92,0.59,1.241,A,Supplier 6,4
+SKU00245,Curtain Essential,Home,SEL0030,1921.29,1235.46,5.82,5.215,C,Supplier 50,13
+SKU00246,Women's Kurti Essential,Fashion,SEL0095,3063.02,2079.08,4.71,5.894,C,Supplier 12,10
+SKU00247,Bedsheet Set Plus,Home,SEL0144,10772.3,7998.99,6.06,13.312,A,Supplier 1,6
+SKU00248,Spice Combo Lite,Grocery,SEL0031,1729.98,1229.37,0.44,0.601,C,Supplier 45,11
+SKU00249,Lipstick Plus,Beauty,SEL0088,2610.56,1814.53,6.33,10.601,C,Supplier 2,5
+SKU00250,Mouse Pro,Electronics,SEL0091,4628.17,3336.03,6.99,12.237,A,Supplier 24,7
+SKU00251,Smartwatch Classic,Electronics,SEL0089,13441.54,8829.48,4.77,7.765,B,Supplier 43,9
+SKU00252,Cushion Cover Deluxe,Home,SEL0067,12042.58,8701.98,2.98,2.594,A,Supplier 23,11
+SKU00253,Smartwatch Max,Electronics,SEL0029,15610.8,11334.19,1.92,1.82,B,Supplier 3,4
+SKU00254,Mouse Max,Electronics,SEL0123,14036.59,9288.27,0.93,1.536,C,Supplier 12,7
+SKU00255,Cookware Set Pro,Home,SEL0061,17156.89,11085.77,4.2,6.607,B,Supplier 45,4
+SKU00256,Charger Lite,Electronics,SEL0123,705.1,483.82,7.61,14.922,B,Supplier 50,4
+SKU00257,Atta 10kg Deluxe,Grocery,SEL0008,3259.69,2345.8,5.16,7.47,B,Supplier 52,5
+SKU00258,Power Bank Pro,Electronics,SEL0018,4356.86,2854.17,1.21,1.352,C,Supplier 59,7
+SKU00259,Denim Jeans Classic,Fashion,SEL0033,1881.53,1430.12,5.03,10.448,A,Supplier 57,14
+SKU00260,Face Wash Deluxe,Beauty,SEL0138,2984.69,2081.26,4.98,8.441,C,Supplier 32,8
+SKU00261,Yoga Mat Deluxe,Sports,SEL0003,10602.32,7060.4,3.05,2.493,C,Supplier 19,4
+SKU00262,Men's T-Shirt Lite,Fashion,SEL0077,1113.85,882.31,4.24,5.62,C,Supplier 27,14
+SKU00263,USB Cable Max,Electronics,SEL0026,4997.86,3584.01,4.02,6.839,C,Supplier 20,10
+SKU00264,Atta 10kg Plus,Grocery,SEL0043,141.2,111.35,3.74,3.154,C,Supplier 37,4
+SKU00265,Bedsheet Set Essential,Home,SEL0102,8868.42,6237.57,3.2,2.745,A,Supplier 28,4
+SKU00266,Earbuds Deluxe,Electronics,SEL0099,375.96,268.37,6.02,11.784,C,Supplier 10,4
+SKU00267,Moisturizer Plus,Beauty,SEL0093,2596.2,2154.47,7.41,6.198,C,Supplier 21,14
+SKU00268,Notebook Pack Classic,Books,SEL0012,80.4,59.54,2.71,2.798,B,Supplier 6,10
+SKU00269,Cushion Cover Essential,Home,SEL0061,15484.81,10726.11,1.04,1.262,C,Supplier 30,11
+SKU00270,Cricket Bat Max,Sports,SEL0014,17852.26,11314.66,3.32,5.758,B,Supplier 42,15
+SKU00271,LED Lamp Pro,Home,SEL0114,2565.15,1798.35,1.9,3.292,B,Supplier 18,8
+SKU00272,Cushion Cover Essential,Home,SEL0133,8918.86,5954.63,2.21,3.297,A,Supplier 23,14
+SKU00273,Storage Box Essential,Home,SEL0130,16736.48,10833.62,7.68,8.599,C,Supplier 54,8
+SKU00274,Smartwatch Max,Electronics,SEL0086,8815.75,6759.66,2.34,2.663,A,Supplier 35,12
+SKU00275,Mouse Deluxe,Electronics,SEL0075,10509.84,7591.41,3.46,5.018,B,Supplier 15,13
+SKU00276,Denim Jeans Classic,Fashion,SEL0124,2694.14,1805.73,4.62,9.277,B,Supplier 49,3
+SKU00277,LED Lamp Essential,Home,SEL0133,13912.58,9601.1,6.78,14.85,B,Supplier 14,12
+SKU00278,Bluetooth Speaker Essential,Electronics,SEL0123,8585.05,5478.21,3.19,5.077,A,Supplier 45,13
+SKU00279,Denim Jeans Essential,Fashion,SEL0034,1355.94,1021.55,2.01,2.991,C,Supplier 24,15
+SKU00280,Storage Box Pro,Home,SEL0135,9429.22,6931.86,4.93,7.031,B,Supplier 30,11
+SKU00281,Power Bank Plus,Electronics,SEL0071,8245.26,6051.72,6.55,12.078,B,Supplier 39,9
+SKU00282,Storage Box Essential,Home,SEL0121,2696.79,1909.63,2.32,4.257,B,Supplier 44,4
+SKU00283,Yoga Mat Classic,Sports,SEL0101,9733.88,6172.83,3.08,6.24,C,Supplier 30,12
+SKU00284,Novel Classic,Books,SEL0132,2396.66,2058.16,3.18,6.421,C,Supplier 40,9
+SKU00285,Rice 5kg Max,Grocery,SEL0080,2997.57,2040.13,3.77,7.727,B,Supplier 21,13
+SKU00286,USB Cable Plus,Electronics,SEL0026,14714.14,11666.17,2.03,2.02,C,Supplier 57,3
+SKU00287,Denim Jeans Lite,Fashion,SEL0034,2862.82,2477.64,4.47,6.782,C,Supplier 15,7
+SKU00288,Curtain Max,Home,SEL0054,3088.1,2081.82,6.29,6.235,B,Supplier 31,13
+SKU00289,Sunglasses Pro,Fashion,SEL0134,1094.56,781.96,2.71,3.2,B,Supplier 48,10
+SKU00290,Earbuds Lite,Electronics,SEL0028,11980.89,8503.82,0.79,1.566,A,Supplier 13,12
+SKU00291,Mouse Max,Electronics,SEL0115,11695.61,9410.52,1.53,2.289,A,Supplier 56,10
+SKU00292,Men's T-Shirt Essential,Fashion,SEL0034,2493.23,2101.59,7.06,13.531,C,Supplier 31,13
+SKU00293,Atta 10kg Plus,Grocery,SEL0105,1929.55,1336.48,7.36,6.924,B,Supplier 2,13
+SKU00294,Formal Shirt Deluxe,Fashion,SEL0011,1658.76,1140.9,6.74,14.743,A,Supplier 18,12
+SKU00295,Cookware Set Deluxe,Home,SEL0120,986.82,662.59,2.87,4.902,C,Supplier 6,11
+SKU00296,Sneakers Pro,Fashion,SEL0039,402.64,336.52,5.12,6.615,B,Supplier 45,6
+SKU00297,Exam Guide Plus,Books,SEL0104,2153.41,1370.96,3.11,6.127,A,Supplier 28,3
+SKU00298,Moisturizer Deluxe,Beauty,SEL0111,2996.88,2124.17,5.03,6.512,C,Supplier 45,13
+SKU00299,Cricket Bat Deluxe,Sports,SEL0116,7006.83,5950.16,4.79,4.63,B,Supplier 38,7
+SKU00300,USB Cable Essential,Electronics,SEL0050,2781.03,2270.99,0.41,0.829,C,Supplier 25,6
+SKU00301,Comic Set Pro,Books,SEL0006,1811.94,1418.75,4.79,6.746,C,Supplier 45,3
+SKU00302,Formal Shirt Plus,Fashion,SEL0044,288.26,182.43,7.85,14.402,B,Supplier 15,4
+SKU00303,Handbag Essential,Fashion,SEL0033,2317.36,1854.07,3.64,5.27,C,Supplier 45,3
+SKU00304,Denim Jeans Plus,Fashion,SEL0103,2088.25,1642.08,3.01,2.6,C,Supplier 23,8
+SKU00305,Storage Box Lite,Home,SEL0065,3738.51,3004.65,4.72,5.313,A,Supplier 5,6
+SKU00306,Football Max,Sports,SEL0116,6199.51,4612.41,6.53,8.157,C,Supplier 17,9
+SKU00307,Lipstick Plus,Beauty,SEL0141,1646.48,1107.62,3.69,5.093,C,Supplier 13,10
+SKU00308,Sneakers Pro,Fashion,SEL0048,1285.78,1066.39,3.31,5.229,C,Supplier 14,6
+SKU00309,Notebook Pack Plus,Books,SEL0006,1357.85,1171.45,2.03,1.961,B,Supplier 8,9
+SKU00310,Yoga Mat Max,Sports,SEL0042,7346.92,6386.15,1.34,1.248,C,Supplier 19,10
+SKU00311,Bluetooth Speaker Lite,Electronics,SEL0050,3162.45,2724.13,7.53,7.166,A,Supplier 12,11
+SKU00312,Sunglasses Deluxe,Fashion,SEL0022,2227.08,1563.27,7.89,7.289,C,Supplier 24,10
+SKU00313,Snack Pack Plus,Grocery,SEL0031,1427.54,1079.2,7.45,7.516,C,Supplier 29,3
+SKU00314,Perfume Plus,Beauty,SEL0057,2847.34,2421.37,7.39,11.787,C,Supplier 52,6
+SKU00315,Comic Set Lite,Books,SEL0023,2304.18,1700.11,1.28,1.461,C,Supplier 52,13
+SKU00316,Exam Guide Plus,Books,SEL0006,2881.7,2498.51,1.33,2.319,A,Supplier 10,11
+SKU00317,Power Bank Plus,Electronics,SEL0089,9319.54,7090.7,5.59,9.123,B,Supplier 54,6
+SKU00318,Charger Deluxe,Electronics,SEL0085,10937.48,8028.65,2.61,2.402,B,Supplier 39,7
+SKU00319,Face Wash Deluxe,Beauty,SEL0002,902.55,595.08,1.39,1.664,B,Supplier 8,15
+SKU00320,Storage Box Essential,Home,SEL0049,17748.03,11495.71,1.27,2.397,A,Supplier 28,12
+SKU00321,Perfume Lite,Beauty,SEL0138,1067.02,874.13,0.14,0.161,C,Supplier 9,7
+SKU00322,Storage Box Deluxe,Home,SEL0120,1814.62,1281.08,2.09,3.261,B,Supplier 50,6
+SKU00323,Rice 5kg Plus,Grocery,SEL0043,679.37,499.13,5.22,5.113,C,Supplier 56,4
+SKU00324,Denim Jeans Essential,Fashion,SEL0076,2427.72,1652.07,5.74,11.624,C,Supplier 49,13
+SKU00325,Football Pro,Sports,SEL0042,8620.65,7306.51,1.97,1.743,C,Supplier 55,11
+SKU00326,Cooking Oil 1L Plus,Grocery,SEL0025,3020.88,1987.62,2.51,3.937,C,Supplier 3,8
+SKU00327,Mouse Plus,Electronics,SEL0071,4110.65,2584.24,0.83,1.628,C,Supplier 28,12
+SKU00328,Power Bank Essential,Electronics,SEL0037,1628.87,1087.01,4.74,4.527,A,Supplier 45,10
+SKU00329,Women's Kurti Max,Fashion,SEL0113,3327.43,2228.79,5.6,6.664,C,Supplier 46,9
+SKU00330,Exam Guide Pro,Books,SEL0143,1066.13,849.1,3.18,5.849,B,Supplier 7,11
+SKU00331,Smartwatch Max,Electronics,SEL0086,2240.71,1764.17,6.88,11.306,B,Supplier 28,12
+SKU00332,Lipstick Pro,Beauty,SEL0119,842.42,672.03,7.88,14.094,C,Supplier 54,9
+SKU00333,Cooking Oil 1L Classic,Grocery,SEL0001,2122.75,1607.08,7.4,13.843,B,Supplier 23,8
+SKU00334,Women's Kurti Deluxe,Fashion,SEL0113,1697.32,1179.4,7.35,8.439,C,Supplier 29,6
+SKU00335,Perfume Plus,Beauty,SEL0015,2807.42,1967.95,3.99,6.641,A,Supplier 50,6
+SKU00336,Sneakers Classic,Fashion,SEL0033,2042.92,1514.56,1.99,4.052,B,Supplier 5,15
+SKU00337,Cushion Cover Max,Home,SEL0067,3326.44,2248.76,3.62,2.978,C,Supplier 5,5
+SKU00338,USB Cable Essential,Electronics,SEL0123,16265.53,10439.58,2.73,4.519,C,Supplier 46,4
+SKU00339,Moisturizer Classic,Beauty,SEL0041,476.06,329.07,6.26,11.677,B,Supplier 55,11
+SKU00340,Tea Pack Lite,Grocery,SEL0031,2172.9,1389.69,7.0,14.577,C,Supplier 24,7
+SKU00341,Face Wash Lite,Beauty,SEL0145,197.51,166.31,3.15,3.656,A,Supplier 56,4
+SKU00342,Exam Guide Classic,Books,SEL0143,3582.42,2400.48,5.15,8.994,B,Supplier 42,10
+SKU00343,Sneakers Classic,Fashion,SEL0097,3018.28,2347.38,2.08,3.735,C,Supplier 1,12
+SKU00344,Sneakers Plus,Fashion,SEL0068,640.42,440.76,2.2,2.6,A,Supplier 55,3
+SKU00345,Mouse Max,Electronics,SEL0050,6788.64,5493.81,1.58,2.462,A,Supplier 37,9
+SKU00346,Notebook Pack Deluxe,Books,SEL0104,1704.28,1095.65,0.83,0.714,C,Supplier 30,5
+SKU00347,USB Cable Essential,Electronics,SEL0115,1135.61,757.27,3.04,3.723,A,Supplier 28,10
+SKU00348,Earbuds Pro,Electronics,SEL0150,14288.5,9937.94,5.89,10.581,C,Supplier 18,13
+SKU00349,Power Bank Pro,Electronics,SEL0028,9445.43,7214.46,1.03,1.092,B,Supplier 3,13
+SKU00350,Handbag Pro,Fashion,SEL0011,2960.62,2294.26,7.86,16.9,A,Supplier 4,13
+SKU00351,Men's T-Shirt Plus,Fashion,SEL0108,2078.81,1742.09,1.55,1.406,C,Supplier 18,6
+SKU00352,Shampoo Plus,Beauty,SEL0148,2853.77,1791.37,5.44,4.658,C,Supplier 44,11
+SKU00353,Spice Combo Pro,Grocery,SEL0055,2031.71,1292.72,2.1,3.125,A,Supplier 2,11
+SKU00354,Keyboard Pro,Electronics,SEL0009,13458.59,8745.97,1.19,1.432,A,Supplier 36,14
+SKU00355,Smartwatch Lite,Electronics,SEL0005,12142.23,8423.07,3.14,4.952,A,Supplier 34,12
+SKU00356,Dumbbell Set Deluxe,Sports,SEL0024,14333.1,9157.17,7.34,12.545,C,Supplier 51,12
+SKU00357,Bedsheet Set Pro,Home,SEL0063,990.42,825.85,0.81,1.047,C,Supplier 58,4
+SKU00358,Sunscreen Plus,Beauty,SEL0119,607.66,408.77,2.87,2.348,B,Supplier 5,6
+SKU00359,Mouse Classic,Electronics,SEL0050,14557.85,9757.49,5.58,5.55,C,Supplier 58,7
+SKU00360,LED Lamp Classic,Home,SEL0102,10674.35,7805.28,3.54,3.388,C,Supplier 22,11
+SKU00361,Shampoo Classic,Beauty,SEL0015,591.85,374.74,2.31,2.997,B,Supplier 39,14
+SKU00362,Cushion Cover Lite,Home,SEL0135,14181.39,11036.39,0.96,1.516,B,Supplier 17,7
+SKU00363,Storage Box Deluxe,Home,SEL0121,9067.3,5713.08,4.45,5.248,B,Supplier 40,9
+SKU00364,Exam Guide Essential,Books,SEL0006,384.77,298.52,4.54,3.905,A,Supplier 10,12
+SKU00365,Cooking Oil 1L Pro,Grocery,SEL0105,1587.45,1218.85,1.86,1.98,C,Supplier 21,5
+SKU00366,Exam Guide Pro,Books,SEL0143,3404.07,2401.22,5.15,9.239,C,Supplier 33,8
+SKU00367,Smartwatch Lite,Electronics,SEL0123,8341.38,6437.63,0.89,1.54,A,Supplier 3,5
+SKU00368,Yoga Mat Pro,Sports,SEL0042,3382.95,2353.47,5.05,7.017,A,Supplier 8,4
+SKU00369,LED Lamp Max,Home,SEL0066,12226.57,8667.87,3.96,5.868,C,Supplier 22,12
+SKU00370,Cushion Cover Lite,Home,SEL0114,6730.2,5792.33,7.54,9.401,B,Supplier 52,14
+SKU00371,Earbuds Essential,Electronics,SEL0150,759.22,644.58,0.25,0.41,A,Supplier 7,4
+SKU00372,Perfume Deluxe,Beauty,SEL0141,1981.11,1387.83,2.37,2.108,C,Supplier 52,11
+SKU00373,Men's T-Shirt Pro,Fashion,SEL0016,938.93,812.5,3.5,6.268,C,Supplier 33,12
+SKU00374,Smartwatch Essential,Electronics,SEL0091,7545.62,4925.51,4.08,4.538,C,Supplier 29,12
+SKU00375,Football Pro,Sports,SEL0042,3909.09,2972.67,2.84,4.358,C,Supplier 48,12
+SKU00376,Sunglasses Lite,Fashion,SEL0044,1342.5,883.34,1.3,1.228,C,Supplier 27,10
+SKU00377,Resistance Band Essential,Sports,SEL0101,10649.93,7108.33,3.17,2.682,A,Supplier 53,4
+SKU00378,Novel Max,Books,SEL0006,1656.21,1263.95,4.51,6.643,C,Supplier 11,13
+SKU00379,Resistance Band Max,Sports,SEL0101,5945.65,4206.88,4.79,5.942,B,Supplier 35,5
+SKU00380,Cooking Oil 1L Plus,Grocery,SEL0105,513.59,380.87,7.15,6.083,C,Supplier 1,8
+SKU00381,Tea Pack Lite,Grocery,SEL0025,1258.03,1089.62,7.33,10.532,C,Supplier 2,15
+SKU00382,Men's T-Shirt Deluxe,Fashion,SEL0044,3235.12,2309.85,1.66,2.921,C,Supplier 56,10
+SKU00383,Shampoo Lite,Beauty,SEL0142,858.09,707.86,5.6,12.117,A,Supplier 15,6
+SKU00384,Mouse Deluxe,Electronics,SEL0112,1165.27,971.4,5.55,9.475,A,Supplier 32,3
+SKU00385,Lipstick Lite,Beauty,SEL0126,3511.43,2272.63,6.51,9.91,B,Supplier 52,6
+SKU00386,Handbag Pro,Fashion,SEL0076,2014.13,1664.17,4.11,3.601,B,Supplier 37,10
+SKU00387,Lipstick Plus,Beauty,SEL0035,2325.27,1977.63,6.81,13.655,B,Supplier 17,14
+SKU00388,Earbuds Max,Electronics,SEL0099,2661.93,1917.96,0.74,1.502,C,Supplier 26,13
+SKU00389,Handbag Lite,Fashion,SEL0124,2255.98,1416.12,2.02,1.831,C,Supplier 59,5
+SKU00390,Bluetooth Speaker Max,Electronics,SEL0050,233.25,164.46,2.15,2.285,A,Supplier 53,12
+SKU00391,Rice 5kg Deluxe,Grocery,SEL0055,1273.4,874.84,6.06,7.632,C,Supplier 3,11
+SKU00392,Children's Storybook Lite,Books,SEL0104,61.12,52.43,7.93,15.029,C,Supplier 12,13
+SKU00393,Earbuds Pro,Electronics,SEL0136,12879.11,9518.82,6.33,5.124,B,Supplier 44,9
+SKU00394,Men's T-Shirt Essential,Fashion,SEL0113,2016.15,1568.3,2.52,5.427,B,Supplier 30,9
+SKU00395,Handbag Lite,Fashion,SEL0068,1473.23,1053.28,3.49,6.831,C,Supplier 11,8
+SKU00396,Power Bank Lite,Electronics,SEL0140,7850.97,5350.41,6.71,10.657,C,Supplier 12,14
+SKU00397,Women's Kurti Plus,Fashion,SEL0113,2336.06,1878.03,4.01,6.511,A,Supplier 57,9
+SKU00398,USB Cable Plus,Electronics,SEL0129,2457.08,1619.31,5.75,10.704,B,Supplier 25,4
+SKU00399,Keyboard Max,Electronics,SEL0129,7914.53,6880.47,5.18,9.352,C,Supplier 44,9
+SKU00400,Bluetooth Speaker Essential,Electronics,SEL0075,10458.59,8201.96,7.67,13.731,C,Supplier 15,14
+SKU00401,Sneakers Deluxe,Fashion,SEL0146,2707.0,1900.66,1.42,2.216,C,Supplier 32,13
+SKU00402,Storage Box Deluxe,Home,SEL0079,1832.95,1387.1,4.07,5.719,A,Supplier 56,7
+SKU00403,Cricket Bat Essential,Sports,SEL0024,6860.29,5853.86,0.18,0.263,A,Supplier 38,14
+SKU00404,Cooking Oil 1L Essential,Grocery,SEL0106,863.1,609.33,1.28,1.568,C,Supplier 44,4
+SKU00405,Sneakers Deluxe,Fashion,SEL0082,781.52,601.86,3.79,5.579,C,Supplier 10,12
+SKU00406,Smartwatch Essential,Electronics,SEL0018,14514.12,10375.09,2.79,4.26,B,Supplier 3,11
+SKU00407,Cushion Cover Lite,Home,SEL0120,15898.28,11116.04,4.14,7.433,C,Supplier 5,3
+SKU00408,Keyboard Classic,Electronics,SEL0136,17704.39,11682.32,6.89,10.17,C,Supplier 14,8
+SKU00409,Women's Kurti Essential,Fashion,SEL0047,507.67,394.1,3.59,4.492,B,Supplier 9,7
+SKU00410,Denim Jeans Classic,Fashion,SEL0124,2219.56,1875.94,6.14,11.72,B,Supplier 35,8
+SKU00411,Bluetooth Speaker Deluxe,Electronics,SEL0109,12759.21,9624.5,3.9,7.375,B,Supplier 27,6
+SKU00412,Bedsheet Set Max,Home,SEL0121,11518.91,9687.41,0.4,0.879,C,Supplier 44,14
+SKU00413,Cookware Set Deluxe,Home,SEL0133,6785.15,5304.73,1.08,1.622,B,Supplier 26,13
+SKU00414,Perfume Pro,Beauty,SEL0141,505.41,400.83,1.63,1.819,C,Supplier 24,4
+SKU00415,USB Cable Plus,Electronics,SEL0050,15194.76,10691.87,5.57,7.306,A,Supplier 50,12
+SKU00416,Cookware Set Deluxe,Home,SEL0049,9551.39,7491.99,3.63,7.15,C,Supplier 21,11
+SKU00417,Mouse Deluxe,Electronics,SEL0085,11651.24,8095.48,1.56,1.48,C,Supplier 31,5
+SKU00418,Perfume Max,Beauty,SEL0090,1758.6,1493.1,6.59,7.271,C,Supplier 30,8
+SKU00419,Storage Box Classic,Home,SEL0081,667.69,440.1,1.45,1.265,C,Supplier 17,6
+SKU00420,Cooking Oil 1L Max,Grocery,SEL0053,1006.98,655.32,2.41,2.637,B,Supplier 32,9
+SKU00421,Spice Combo Max,Grocery,SEL0031,309.23,253.19,3.37,6.845,A,Supplier 14,4
+SKU00422,Children's Storybook Deluxe,Books,SEL0032,3247.12,2230.54,1.96,2.72,B,Supplier 20,9
+SKU00423,Cushion Cover Max,Home,SEL0020,9110.04,6943.79,4.91,5.964,B,Supplier 55,4
+SKU00424,Perfume Deluxe,Beauty,SEL0119,1180.6,838.98,2.26,1.977,C,Supplier 1,4
+SKU00425,Keyboard Max,Electronics,SEL0026,7256.99,5885.58,0.8,1.03,C,Supplier 36,14
+SKU00426,Lipstick Max,Beauty,SEL0093,206.39,145.33,0.78,1.216,C,Supplier 59,9
+SKU00427,Cooking Oil 1L Max,Grocery,SEL0064,192.86,166.09,3.47,7.067,B,Supplier 25,6
+SKU00428,Snack Pack Plus,Grocery,SEL0087,242.6,199.03,2.68,4.658,B,Supplier 53,14
+SKU00429,Perfume Deluxe,Beauty,SEL0111,3046.16,1908.01,6.05,12.058,C,Supplier 23,7
+SKU00430,Dumbbell Set Essential,Sports,SEL0110,15304.26,11221.42,5.12,7.787,C,Supplier 9,5
+SKU00431,Curtain Essential,Home,SEL0065,15208.5,9608.31,2.03,3.641,C,Supplier 33,14
+SKU00432,Moisturizer Deluxe,Beauty,SEL0141,2052.65,1455.14,1.38,2.988,B,Supplier 29,3
+SKU00433,Keyboard Essential,Electronics,SEL0109,6647.61,5339.29,1.55,3.099,C,Supplier 1,15
+SKU00434,Yoga Mat Essential,Sports,SEL0014,4728.95,3062.04,2.51,2.712,A,Supplier 44,3
+SKU00435,Handbag Lite,Fashion,SEL0077,2569.61,1890.71,2.78,3.242,B,Supplier 1,13
+SKU00436,Smartwatch Classic,Electronics,SEL0140,15382.55,11859.06,0.75,0.861,A,Supplier 26,8
+SKU00437,Sunscreen Lite,Beauty,SEL0119,1267.83,875.62,5.06,10.706,C,Supplier 24,4
+SKU00438,Formal Shirt Essential,Fashion,SEL0103,2730.44,1991.44,5.65,5.139,C,Supplier 7,15
+SKU00439,Shampoo Pro,Beauty,SEL0145,3294.28,2098.48,1.85,2.839,C,Supplier 12,8
+SKU00440,Shampoo Pro,Beauty,SEL0145,1325.16,905.06,1.81,2.271,A,Supplier 49,3
+SKU00441,Yoga Mat Lite,Sports,SEL0024,11341.17,7864.83,6.24,8.62,B,Supplier 8,12
+SKU00442,Cricket Bat Classic,Sports,SEL0003,4679.24,3803.66,0.21,0.214,C,Supplier 47,15
+SKU00443,Formal Shirt Deluxe,Fashion,SEL0095,2818.72,2005.51,1.14,1.812,A,Supplier 43,5
+SKU00444,Cookware Set Max,Home,SEL0065,6608.69,5179.54,5.5,10.875,C,Supplier 25,9
+SKU00445,Men's T-Shirt Lite,Fashion,SEL0095,186.13,126.16,4.38,5.164,B,Supplier 48,15
+SKU00446,Shampoo Plus,Beauty,SEL0141,1738.15,1215.99,3.34,4.871,B,Supplier 5,4
+SKU00447,Curtain Plus,Home,SEL0066,838.48,556.11,2.3,4.038,C,Supplier 31,13
+SKU00448,Earbuds Plus,Electronics,SEL0098,15872.9,11512.49,5.87,10.493,B,Supplier 5,8
+SKU00449,Atta 10kg Max,Grocery,SEL0043,960.45,730.36,3.16,5.199,B,Supplier 23,3
+SKU00450,Bedsheet Set Lite,Home,SEL0121,10084.65,8498.43,3.79,3.182,C,Supplier 1,5
+SKU00451,Smartwatch Deluxe,Electronics,SEL0052,5535.63,3943.56,2.1,3.503,B,Supplier 9,14
+SKU00452,Snack Pack Classic,Grocery,SEL0056,389.15,323.23,7.99,11.004,A,Supplier 10,12
+SKU00453,Novel Pro,Books,SEL0143,1584.13,1075.54,7.32,13.162,B,Supplier 17,14
+SKU00454,Women's Kurti Pro,Fashion,SEL0147,3781.37,2467.89,7.43,8.594,A,Supplier 50,10
+SKU00455,Comic Set Lite,Books,SEL0100,2085.64,1331.76,4.98,6.153,B,Supplier 52,4
+SKU00456,Atta 10kg Classic,Grocery,SEL0021,607.69,401.21,5.65,8.715,B,Supplier 30,6
+SKU00457,Yoga Mat Essential,Sports,SEL0101,14777.35,10584.3,6.57,9.959,B,Supplier 48,6
+SKU00458,Cookware Set Max,Home,SEL0130,6177.68,4799.28,4.17,6.517,C,Supplier 46,6
+SKU00459,LED Lamp Classic,Home,SEL0065,13595.94,10412.76,7.39,8.057,C,Supplier 15,4
+SKU00460,Curtain Essential,Home,SEL0081,2705.85,1735.11,4.27,6.92,C,Supplier 42,14
+SKU00461,Notebook Pack Lite,Books,SEL0006,907.34,695.7,5.21,7.798,A,Supplier 22,4
+SKU00462,Sunglasses Classic,Fashion,SEL0011,737.03,517.67,1.46,2.97,B,Supplier 44,12
+SKU00463,Resistance Band Deluxe,Sports,SEL0014,4829.59,3600.3,7.67,16.277,C,Supplier 7,12
+SKU00464,Men's T-Shirt Plus,Fashion,SEL0011,3898.1,2473.24,0.89,1.205,B,Supplier 32,8
+SKU00465,Bedsheet Set Plus,Home,SEL0020,4364.91,3344.27,0.77,1.153,A,Supplier 12,11
+SKU00466,Bedsheet Set Classic,Home,SEL0065,13914.39,11449.89,4.2,4.518,A,Supplier 37,8
+SKU00467,Snack Pack Pro,Grocery,SEL0031,537.19,391.52,5.23,4.824,B,Supplier 4,9
+SKU00468,Moisturizer Classic,Beauty,SEL0088,1136.91,961.59,1.8,2.616,C,Supplier 28,12
+SKU00469,Keyboard Deluxe,Electronics,SEL0150,6077.67,5123.19,2.62,2.968,A,Supplier 40,8
+SKU00470,Sunscreen Lite,Beauty,SEL0015,1086.09,882.17,5.74,7.462,C,Supplier 25,15
+SKU00471,Power Bank Lite,Electronics,SEL0037,3123.23,2274.94,1.26,1.293,C,Supplier 17,13
+SKU00472,Cushion Cover Classic,Home,SEL0040,13053.28,11162.84,4.54,7.117,B,Supplier 48,4
+SKU00473,Sunglasses Pro,Fashion,SEL0068,2270.96,1817.11,1.59,1.973,C,Supplier 44,14
+SKU00474,Cookware Set Deluxe,Home,SEL0120,11371.28,7851.39,3.87,8.0,C,Supplier 11,5
+SKU00475,Curtain Plus,Home,SEL0054,7946.26,6589.98,3.17,3.927,C,Supplier 32,5
+SKU00476,Face Wash Essential,Beauty,SEL0057,1688.39,1133.85,1.13,2.367,B,Supplier 31,7
+SKU00477,Formal Shirt Classic,Fashion,SEL0039,919.78,699.44,5.75,12.244,C,Supplier 11,13
+SKU00478,Tea Pack Lite,Grocery,SEL0083,3185.87,2079.08,2.38,5.081,B,Supplier 26,9
+SKU00479,LED Lamp Deluxe,Home,SEL0121,10353.32,8467.6,4.71,4.551,C,Supplier 39,12
+SKU00480,Spice Combo Plus,Grocery,SEL0043,2807.37,2279.72,3.17,5.408,B,Supplier 59,3
+SKU00481,Face Wash Pro,Beauty,SEL0027,1508.73,1046.17,4.61,4.696,B,Supplier 10,12
+SKU00482,Tea Pack Classic,Grocery,SEL0056,2368.15,1836.71,4.34,9.082,C,Supplier 2,3
+SKU00483,Face Wash Pro,Beauty,SEL0093,581.49,486.43,6.13,12.078,A,Supplier 9,6
+SKU00484,Women's Kurti Max,Fashion,SEL0033,2142.05,1498.14,5.51,11.391,B,Supplier 35,5
+SKU00485,Bluetooth Speaker Lite,Electronics,SEL0099,5805.71,3725.58,0.81,1.455,C,Supplier 35,13
+SKU00486,Lipstick Lite,Beauty,SEL0138,1275.8,837.97,6.18,9.273,C,Supplier 19,8
+SKU00487,Sunscreen Plus,Beauty,SEL0041,2805.62,2169.7,3.89,8.291,C,Supplier 36,13
+SKU00488,Denim Jeans Max,Fashion,SEL0134,3036.2,2491.44,4.17,6.134,C,Supplier 31,12
+SKU00489,Notebook Pack Essential,Books,SEL0137,2128.55,1585.7,4.11,6.219,A,Supplier 8,12
+SKU00490,Men's T-Shirt Essential,Fashion,SEL0076,2696.0,1787.72,3.15,4.853,A,Supplier 4,10
+SKU00491,Storage Box Lite,Home,SEL0058,3634.3,3122.09,5.54,7.807,B,Supplier 59,14
+SKU00492,Lipstick Lite,Beauty,SEL0038,1531.21,1123.17,4.67,3.777,C,Supplier 3,3
+SKU00493,Formal Shirt Lite,Fashion,SEL0011,773.3,558.06,2.28,4.569,B,Supplier 10,11
+SKU00494,Bedsheet Set Classic,Home,SEL0096,414.64,311.32,4.32,6.235,C,Supplier 12,3
+SKU00495,Moisturizer Deluxe,Beauty,SEL0107,1163.27,772.9,4.47,7.404,C,Supplier 56,11
+SKU00496,Charger Deluxe,Electronics,SEL0099,10541.07,8730.94,5.61,8.292,C,Supplier 58,8
+SKU00497,Storage Box Pro,Home,SEL0122,1980.22,1676.27,3.97,3.625,C,Supplier 59,15
+SKU00498,Atta 10kg Essential,Grocery,SEL0083,1017.65,735.5,0.98,1.998,A,Supplier 53,14
+SKU00499,Formal Shirt Classic,Fashion,SEL0016,2425.5,2025.27,4.93,9.094,C,Supplier 14,3
+SKU00500,Charger Pro,Electronics,SEL0029,6738.99,5429.77,5.61,7.289,B,Supplier 16,14

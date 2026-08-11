@@ -1,0 +1,41 @@
+Rider_ID,Rider_Name,Hub_Warehouse,Availability,Daily_Capacity
+RID001,Suresh A.,WH-KOL,Active,32
+RID002,Neha B.,WH-BLR,Active,19
+RID003,Neha C.,WH-DEL,On Leave,21
+RID004,Amit D.,WH-BLR,Active,32
+RID005,Vikram E.,WH-DEL,Active,18
+RID006,Amit F.,WH-MUM,On Leave,26
+RID007,Sunita G.,WH-MUM,Active,24
+RID008,Manoj H.,WH-KOL,Active,33
+RID009,Amit I.,WH-KOL,Active,32
+RID010,Vikram J.,WH-MUM,Active,33
+RID011,Sandeep K.,WH-BLR,On Leave,22
+RID012,Deepak L.,WH-BLR,On Leave,27
+RID013,Sunita M.,WH-BLR,Active,29
+RID014,Ajay N.,WH-BLR,Active,34
+RID015,Vikram O.,WH-KOL,On Leave,18
+RID016,Manoj P.,WH-KOL,Active,34
+RID017,Rahul Q.,WH-KOL,On Leave,24
+RID018,Priya R.,WH-DEL,Active,20
+RID019,Manoj S.,WH-MUM,Active,28
+RID020,Ajay T.,WH-MUM,Active,31
+RID021,Vikram U.,WH-BLR,On Leave,20
+RID022,Rohit V.,WH-BLR,On Leave,18
+RID023,Anil W.,WH-BLR,Active,33
+RID024,Neha X.,WH-MUM,Active,33
+RID025,Karan Y.,WH-MUM,Active,20
+RID026,Priya Z.,WH-MUM,Active,33
+RID027,Kavita A.,WH-KOL,Active,33
+RID028,Karan B.,WH-MUM,Active,34
+RID029,Vikram C.,WH-DEL,On Leave,21
+RID030,Sandeep D.,WH-KOL,Active,27
+RID031,Neha E.,WH-DEL,On Leave,34
+RID032,Ravi F.,WH-BLR,Active,33
+RID033,Deepak G.,WH-KOL,On Leave,28
+RID034,Priya H.,WH-MUM,Active,21
+RID035,Sandeep I.,WH-MUM,On Leave,19
+RID036,Sunita J.,WH-MUM,Active,22
+RID037,Rahul K.,WH-DEL,Active,19
+RID038,Ajay L.,WH-DEL,Active,21
+RID039,Priya M.,WH-DEL,On Leave,19
+RID040,Sanjay N.,WH-MUM,Active,30

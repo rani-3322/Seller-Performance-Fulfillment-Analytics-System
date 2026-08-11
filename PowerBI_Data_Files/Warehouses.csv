@@ -1,0 +1,5 @@
+Warehouse_ID,Location,Storage_Capacity_units,Target_Utilization,Inventory_Accuracy_Audit,Picking_Accuracy,Packing_Accuracy,Dock_Utilization
+WH-DEL,Delhi,460000,0.79,0.9706,0.9635,0.9903,0.6765
+WH-MUM,Mumbai,1075000,0.86,0.9883,0.9893,0.9778,0.7335
+WH-BLR,Bengaluru,1025000,0.74,0.9804,0.9502,0.9715,0.7514
+WH-KOL,Kolkata,820000,0.91,0.9446,0.987,0.9706,0.766
